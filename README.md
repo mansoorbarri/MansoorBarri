@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MansoorBarri&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### construction_worker Currently working on: 
+### 👷 Currently working on: 
 - [MansoorBarri/mansoor.github.io](https://github.com/MansoorBarri/mansoor.github.io) - My HUGO Website for Blogs.
 
 ### 📰 Recent Blog Posts
