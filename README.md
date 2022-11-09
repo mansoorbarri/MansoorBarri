@@ -7,12 +7,12 @@
 
 ### 📰 Recent Blog Posts
 
-- [SSH into Termux](https://mansoor.cf/posts/termux-ssh/)
-- [Advanced Scambaiting](https://mansoor.cf/posts/advanced-scambaiting/)
-- [Getting started - PhoneinFoga](https://mansoor.cf/posts/phoneinfoga/)
-- [HUGO Server on LAN](https://mansoor.cf/posts/hugo-lan/)
+- [SSH into Termux](https://mansoorbarri.com/posts/termux-ssh/)
+- [Advanced Scambaiting](https://mansoorbarri.com/posts/advanced-scambaiting/)
+- [Getting started - PhoneinFoga](https://mansoorbarri.com/posts/phoneinfoga/)
+- [HUGO Server on LAN](https://mansoorbarri.com/posts/hugo-lan/)
 
 ### 📫 Reach me:
   - Twitter   : <https://twitter.com/MansoorBarri>
-  - Website   : <https://mansoor.cf>
+  - Website   : <https://mansoorbarri.com>
 
