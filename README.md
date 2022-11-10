@@ -8,7 +8,7 @@
 ### 📰 Recent Blog Posts
 
 - [SideWinder's attack on Pakistan's NEPRA](https://mansoorbarri.com/posts/termux-ssh/)
-- [Mirror Android Screen with Sound](https://mansoorbarri.com/posts/android-screen-mirror/))](https://mansoorbarri.com/posts/android-screen-mirror/)
+- [Mirror Android Screen with Sound](https://mansoorbarri.com/posts/android-screen-mirror/)
 - [SSH into Termux](https://mansoorbarri.com/posts/termux-ssh/)
 - [Advanced Scambaiting](https://mansoorbarri.com/posts/advanced-scambaiting/)
 
