@@ -16,5 +16,5 @@
 ### 📫 Reach me:
   - Twitter   : <https://twitter.com/MansoorBarri>
   - Website   : <https://mansoorbarri.com>
-  - Email     : mailto:contact@mansoorbarri.com
+  - Email     : [contact@mansoorbarri.com](mailto:contact@mansoorbarri.com)
 
