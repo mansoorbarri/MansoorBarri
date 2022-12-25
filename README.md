@@ -5,16 +5,16 @@
 ### 👷 Currently working on: 
 - [MansoorBarri/mansoor.github.io](https://github.com/MansoorBarri/mansoor.github.io) - My HUGO Website for Blogs.
 
-### 📰 Recent Blog Posts
+### 📰 Recent Posts
 
-- [SideWinder's attack on Pakistan's NEPRA](https://mansoorbarri.com/posts/termux-ssh/)
-- [Mirror Android Screen with Sound](https://mansoorbarri.com/posts/android-screen-mirror/)
-- [SSH into Termux](https://mansoorbarri.com/posts/termux-ssh/)
-- [Advanced Scambaiting](https://mansoorbarri.com/posts/advanced-scambaiting/)
+- [THM | Advent Of Cyber 4](https://mansoorbarri.com/write-ups/aoc4/)
 
+- [Convert Python files to Windows executable files](https://mansoorbarri.com/how-to/py-to-exe/)
+
+- [FBI Just Got Hacked](https://mansoorbarri.com/articles/fbi-hack/)
 
 ### 📫 Reach me:
-  - Twitter   : <https://twitter.com/MansoorBarri>
+  - LinkedIn  : <https://mansoorbarri.com/linkedin>
+  - Twitter   : <https://mansoorbarri.com/twitter>
   - Website   : <https://mansoorbarri.com>
-  - Email     : [contact@mansoorbarri.com](mailto:contact@mansoorbarri.com)
-
+  - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
