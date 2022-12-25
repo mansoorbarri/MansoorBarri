@@ -4,7 +4,7 @@
 
 ### 👷 Currently working on: 
 - [MansoorBarri/mansoorwebsite](https://github.com/MansoorBarri/website.git) - My HUGO Website for Blogs.
-- [MansoorBarri/ejazahmadbarri.github.io](https://github.com/MansoorBarri/ejazahmadbarri.git) - Personal Website for [Ejaz Barri](https://www.linkedin.com/in/ejazahmadbarri017/)
+- [MansoorBarri/ejazahmadbarri.github.io](https://github.com/mansoorbarri/ejazahmadbarri.github.io) - Personal Website for [Ejaz Barri](https://www.linkedin.com/in/ejazahmadbarri017/)
 
 ### 📰 Recent Posts
 
