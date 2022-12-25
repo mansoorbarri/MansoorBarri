@@ -3,7 +3,8 @@
 </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorBarri&layout=compact&theme=dark&hide_border=true" /></a></p>
 
 ### 👷 Currently working on: 
-- [MansoorBarri/mansoor.github.io](https://github.com/MansoorBarri/mansoor.github.io) - My HUGO Website for Blogs.
+- [MansoorBarri/mansoorwebsite](https://github.com/MansoorBarri/website.git) - My HUGO Website for Blogs.
+- [MansoorBarri/ejazahmadbarri.github.io](https://github.com/MansoorBarri/ejazahmadbarri.git) - Personal Website for [Ejaz Barri](https://www.linkedin.com/in/ejazahmadbarri017/)
 
 ### 📰 Recent Posts
 
