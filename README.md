@@ -8,9 +8,7 @@
 ### 📰 Recent Posts
 
 - [THM | Advent Of Cyber 4](https://mansoorbarri.com/write-ups/aoc4/)
-
 - [Convert Python files to Windows executable files](https://mansoorbarri.com/how-to/py-to-exe/)
-
 - [FBI Just Got Hacked](https://mansoorbarri.com/articles/fbi-hack/)
 
 ### 📫 Reach me:
