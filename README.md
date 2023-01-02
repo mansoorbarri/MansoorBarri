@@ -8,9 +8,9 @@
 
 ### 📰 Recent Posts
 
+- [Block Websites On Your Home Network](https://mansoorbarri.com/how-to/home-security/)
 - [End of 2020](https://mansoorbarri.com/articles/end-of-2020/)
 - [THM | Advent Of Cyber 4](https://mansoorbarri.com/write-ups/aoc4/)
-- [Convert Python files to Windows executable files](https://mansoorbarri.com/how-to/py-to-exe/)
 
 ### 📫 Reach me:
   - LinkedIn  : <https://mansoorbarri.com/linkedin>
