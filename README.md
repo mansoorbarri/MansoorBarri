@@ -8,9 +8,10 @@
 
 ### 📰 Recent Posts
 
+- [Customise Your Prompt with Starship](https://mansoorbarri.com/how-to/customised-prompt/)
 - [Block Websites On Your Home Network](https://mansoorbarri.com/how-to/home-security/)
 - [End of 2020](https://mansoorbarri.com/articles/end-of-2020/)
-- [THM | Advent Of Cyber 4](https://mansoorbarri.com/write-ups/aoc4/)
+
 
 ### 📫 Reach me:
   - LinkedIn  : <https://mansoorbarri.com/linkedin>
