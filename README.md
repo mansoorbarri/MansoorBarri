@@ -8,7 +8,7 @@
 
 ### 📰 Recent Posts
 
-- [Customise Your Prompt with Starship](mansoorbarri.com/how-to/customised-prompt)
+- [Customise Your Prompt with Starship](https://mansoorbarri.com/how-to/customised-prompt)
 - [Block Websites On Your Home Network](https://mansoorbarri.com/how-to/home-security/)
 - [End of 2020](https://mansoorbarri.com/articles/end-of-2020/)
 
