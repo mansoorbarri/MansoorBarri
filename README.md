@@ -8,9 +8,9 @@
 
 ### 📰 Recent Posts
 
-- [Customise Your Prompt with Starship](https://mansoorbarri.com/how-to/customised-prompt)
-- [Block Websites On Your Home Network](https://mansoorbarri.com/how-to/home-security/)
-- [End of 2020](https://mansoorbarri.com/articles/end-of-2020/)
+- [Must Have GNOME Extensions](https://mansoorbarri.com/how-to/must-have-gnome-extensions/)
+- [Find Social Media Accounts with Sherlock](https://mansoorbarri.com/how-to/find-social-media-accounts/)
+- [10 Things to Do After Installing Debian](https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/)
 
 
 ### 📫 Reach me:
