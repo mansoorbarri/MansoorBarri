@@ -8,9 +8,9 @@
 
 ### 📰 Recent Posts
 
-- [Must Have GNOME Extensions](https://mansoorbarri.com/how-to/must-have-gnome-extensions/)
-- [Find Social Media Accounts with Sherlock](https://mansoorbarri.com/how-to/find-social-media-accounts/)
-- [10 Things to Do After Installing Debian](https://mansoorbarri.com/how-to/things-to-do-after-installing-deb/)
+- [Best Practicies To Keep Yourself Safe Online](https://mansoorbarri.com/articles/best-practicies/)
+- [Windows Utility](https://mansoorbarri.com/how-to/windows-utility/)
+- [Connect Your Phone to Linux](https://mansoorbarri.com/how-to/connect-your-phone-to-linux/)
 
 
 ### 📫 Reach me:
