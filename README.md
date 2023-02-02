@@ -8,10 +8,9 @@
 
 ### 📰 Recent Posts
 
+- [Emoji Support in Linux](https://mansoorbarri.com/how-to/emoji/)
 - [Best Practicies To Keep Yourself Safe Online](https://mansoorbarri.com/articles/best-practicies/)
 - [Windows Utility](https://mansoorbarri.com/how-to/windows-utility/)
-- [Connect Your Phone to Linux](https://mansoorbarri.com/how-to/connect-your-phone-to-linux/)
-
 
 ### 📫 Reach me:
   - LinkedIn  : <https://mansoorbarri.com/linkedin>
