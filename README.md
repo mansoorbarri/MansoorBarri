@@ -8,9 +8,9 @@
 
 ### 📰 Recent Posts
 
-- [Emoji Support in Linux](https://mansoorbarri.com/how-to/emoji/)
-- [Best Practicies To Keep Yourself Safe Online](https://mansoorbarri.com/articles/best-practicies/)
-- [Windows Utility](https://mansoorbarri.com/how-to/windows-utility/)
+- [NewsPenguin Cyber Attack Targets Pakistani Entities During Upcoming International Maritime Expo](https://mansoorbarri.com/articles/newspenguin-pakistan/)
+- [THM | Introduction to Cryptography](https://mansoorbarri.com/write-ups/cryptographyintro/)
+- [Use One Mouse-Keyboard On Two Systems](https://mansoorbarri.com/how-to/one-keyboard-mouse/)
 
 ### 📫 Reach me:
   - LinkedIn  : <https://mansoorbarri.com/linkedin>
