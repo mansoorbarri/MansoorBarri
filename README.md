@@ -13,7 +13,7 @@
 - [Use One Mouse-Keyboard On Two Systems](https://mansoorbarri.com/how-to/one-keyboard-mouse/)
 
 ### 📫 Reach me:
-  - LinkedIn  : <https://mansoorbarri.com/linkedin>
+  - Linkedin  : <https://mansoorbarri.com/linkedin>
   - Twitter   : <https://mansoorbarri.com/twitter>
   - Website   : <https://mansoorbarri.com>
   - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
