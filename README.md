@@ -8,9 +8,10 @@
 
 ### 📰 Recent Posts
 
+- [How To Use Cloudflare & GitHub to Host Your Static Site](https://mansoorbarri.com/how-to/cloudflare-hugo/)
 - [Linux VS Windows](https://mansoorbarri.com/articles/linux-vs-windows/)
 - [NewsPenguin Cyber Attack Targets Pakistani Entities During Upcoming International Maritime Expo](https://mansoorbarri.com/articles/newspenguin-pakistan/)
-- [THM | Introduction to Cryptography](https://mansoorbarri.com/write-ups/cryptographyintro/)
+
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
