@@ -8,9 +8,9 @@
 
 ### 📰 Recent Posts
 
+- [Something New To Look For To Prevent Scams](https://mansoorbarri.com/articles/rotl-scams/)
 - [How To Use Cloudflare & GitHub to Host Your Static Site](https://mansoorbarri.com/how-to/cloudflare-hugo/)
 - [Linux VS Windows](https://mansoorbarri.com/articles/linux-vs-windows/)
-- [Use One Mouse-Keyboard On Two Systems](https://mansoorbarri.com/how-to/one-keyboard-mouse/)
 
 
 ### 📫 Reach me:
