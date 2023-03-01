@@ -8,9 +8,9 @@
 
 ### 📰 Recent Posts
 
+- [Admin User vs Standard User](https://mansoorbarri.com/articles/admin-vs-standard/)
 - [Enable UAC Prompt Password For Standard User](https://mansoorbarri.com/how-to/enable-uac/)
 - [Something New To Look For To Prevent Scams](https://mansoorbarri.com/articles/rotl-scams/)
-- [How To Use Cloudflare & GitHub to Host Your Static Site](https://mansoorbarri.com/how-to/cloudflare-hugo/)
 
 
 ### 📫 Reach me:
