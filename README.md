@@ -3,7 +3,7 @@
 </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorBarri&layout=compact&theme=dark&hide_border=true" /></a></p>
 
 ### 👷 Currently working on: 
-- [MansoorBarri/mansoorwebsite](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
+- [MansoorBarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 
 ### 📰 Recent Posts
 
