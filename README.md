@@ -8,9 +8,10 @@
 
 ### 📰 Recent Posts
 
+- [HPLIP Install On Debian](https://mansoorbarri.com/how-to/hplip-debian/)
 - [Enable UAC Prompt Password For Standard User](https://mansoorbarri.com/how-to/enable-uac/)
 - [Something New To Look For To Prevent Scams](https://mansoorbarri.com/articles/rotl-scams/)
-- [How To Use Cloudflare & GitHub to Host Your Static Site](https://mansoorbarri.com/how-to/cloudflare-hugo/)
+
 
 
 ### 📫 Reach me:
