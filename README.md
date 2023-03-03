@@ -7,16 +7,9 @@
 
 ### 📰 Recent Posts
 
-<<<<<<< HEAD
 - [HPLIP Install On Debian](https://mansoorbarri.com/how-to/hplip-debian/)
-- [Enable UAC Prompt Password For Standard User](https://mansoorbarri.com/how-to/enable-uac/)
-- [Something New To Look For To Prevent Scams](https://mansoorbarri.com/articles/rotl-scams/)
-
-=======
 - [Admin User vs Standard User](https://mansoorbarri.com/articles/admin-vs-standard/)
 - [Enable UAC Prompt Password For Standard User](https://mansoorbarri.com/how-to/enable-uac/)
-- [Something New To Look For To Prevent Scams](https://mansoorbarri.com/articles/rotl-scams/)
->>>>>>> a067f63338c935d8d73de6ad7857f677438d1261
 
 
 ### 📫 Reach me:
