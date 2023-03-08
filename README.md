@@ -9,9 +9,10 @@
 
 ### 📰 Recent Posts
 
+- [Get Group Policy Back in Windows 10 and 11 with PolicyPlus](https://mansoorbarri.com/how-to/policy-plus/)
 - [Fix | Sender Has Not Been Verified](https://mansoorbarri.com/how-to/sender-not-verified/)
 - [HPLIP Install On Debian](https://mansoorbarri.com/how-to/hplip-debian/)
-- [Admin User vs Standard User](https://mansoorbarri.com/articles/admin-vs-standard/)
+
 
 
 ### 📫 Reach me:
