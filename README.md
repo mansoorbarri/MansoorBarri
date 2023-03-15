@@ -24,9 +24,10 @@
 
 ### 📰 Recent Posts
 
+- [Convert Your Markdown File to a Medium Post](https://mansoorbarri.com/how-to/md-to-medium/)
 - [Redirects on Hugo](https://mansoorbarri.com/how-to/redirects-on-hugo/)
 - [Guide to Installing Notion on Linux using Epiphany Browser](https://mansoorbarri.com/how-to/notion-web-app-on-linux/)
-- [Get Group Policy Back in Windows 10 and 11 with PolicyPlus](https://mansoorbarri.com/how-to/policy-plus/)
+
 
 
 ### 📫 Reach me:
