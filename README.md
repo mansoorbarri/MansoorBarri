@@ -24,11 +24,9 @@
 
 ### 📰 Recent Posts
 
+- [How to Install and Use WSL2 on Windows 10: A Step-by-Step Guide](https://mansoorbarri.com/how-to/wsl2/)
 - [Convert Your Markdown File to a Medium Post](https://mansoorbarri.com/how-to/md-to-medium/)
 - [Redirects on Hugo](https://mansoorbarri.com/how-to/redirects-on-hugo/)
-- [Guide to Installing Notion on Linux using Epiphany Browser](https://mansoorbarri.com/how-to/notion-web-app-on-linux/)
-
-
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
