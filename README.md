@@ -24,9 +24,9 @@
 
 ### 📰 Recent Posts
 
+- [Transfer Data From Iphone To Android Using Copy My Data](https://mansoorbarri.com/how-to/iphone-to-android/)
 - [How to Install and Use WSL2 on Windows 10: A Step-by-Step Guide](https://mansoorbarri.com/how-to/wsl2/)
 - [Convert Your Markdown File to a Medium Post](https://mansoorbarri.com/how-to/md-to-medium/)
-- [Redirects on Hugo](https://mansoorbarri.com/how-to/redirects-on-hugo/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
