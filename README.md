@@ -25,11 +25,8 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
-
-<<<<<<< HEAD
 - [LinusTechTips Got Hacked](https://mansoorbarri.com/articles/ltt-hacked/)
 - [Cybersecurity Threats from Vivern: APT Tactics and Targets](https://mansoorbarri.com/articles/apt-attacks/)
->>>>>>> 7697a1a8ea96869347c16ac2606313d2d549477b
 - [Transfer Data From Iphone To Android Using Copy My Data](https://mansoorbarri.com/how-to/iphone-to-android/)
 - [How to Install and Use WSL2 on Windows 10: A Step-by-Step Guide](https://mansoorbarri.com/how-to/wsl2/)
 
