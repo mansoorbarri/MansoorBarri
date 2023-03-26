@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansoorBarri&show_icons=true&theme=dark&hide_border=true" />
-</a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorBarri&layout=compact&theme=dark&hide_border=true" /></a></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansoorBarri&show_icons=true&theme=onedark&hide_border=true" />
+</a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorBarri&layout=compact&theme=onedark&hide_border=true" /></a></p>
 
 ---
 
