@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansoorbarri&theme=onedark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=floyd-li&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansoorbarri&theme=onedark)
+=======
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansoorBarri&show_icons=true&theme=onedark&hide_border=true" />
+</a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorBarri&layout=compact&theme=onedark&hide_border=true" /></a></p>
+>>>>>>> 9e14424402334e1447c40dd6c6128682ea11f325
 
 ---
 
@@ -22,13 +28,12 @@
 
 ### 👷 Currently working on [![wakatime](https://wakatime.com/badge/user/a2c64f60-2704-40da-8e5c-c51daf6f8733.svg)](https://wakatime.com/@a2c64f60-2704-40da-8e5c-c51daf6f8733): 
 - [MansoorBarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
+- Learning python for scripts and automation
+- Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
-
-<<<<<<< HEAD
 - [LinusTechTips Got Hacked](https://mansoorbarri.com/articles/ltt-hacked/)
 - [Cybersecurity Threats from Vivern: APT Tactics and Targets](https://mansoorbarri.com/articles/apt-attacks/)
->>>>>>> 7697a1a8ea96869347c16ac2606313d2d549477b
 - [Transfer Data From Iphone To Android Using Copy My Data](https://mansoorbarri.com/how-to/iphone-to-android/)
 - [How to Install and Use WSL2 on Windows 10: A Step-by-Step Guide](https://mansoorbarri.com/how-to/wsl2/)
 
