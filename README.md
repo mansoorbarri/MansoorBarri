@@ -28,10 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
-- [Get a Free SSL Certificate for Your GoDaddy Subdomain using SSL Certificate Generator](https://mansoorbarri.com/how-to/free-ssl-on-godaddy/)
-- [LinusTechTips Got Hacked](https://mansoorbarri.com/articles/ltt-hacked/)
-- [Cybersecurity Threats from Vivern: APT Tactics and Targets](https://mansoorbarri.com/articles/apt-attacks/)
-- [Transfer Data From Iphone To Android Using Copy My Data](https://mansoorbarri.com/how-to/iphone-to-android/)
+- [Arid Viper Hacking Group using updated Malware in Middle East Cyber Attacks](https://mansoorbarri.com/articles/upgraded-malware-by-arid-viper/)
+- [Why Use Hugo Instead of HTML, CSS & JS For Websites?](https://mansoorbarri.com/articles/why-cms/)
+- [Hugo vs WordPress: A Performance and SEO Comparison](https://mansoorbarri.com/guides/hugo-vs-wordpress/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
