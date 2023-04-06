@@ -28,9 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
+- [Step-by-Step Guide on Using Hugo](https://mansoorbarri.com/guides/hugo-101/)
 - [Arid Viper Hacking Group using updated Malware in Middle East Cyber Attacks](https://mansoorbarri.com/articles/upgraded-malware-by-arid-viper/)
 - [Why Use Hugo Instead of HTML, CSS & JS For Websites?](https://mansoorbarri.com/articles/why-cms/)
-- [Hugo vs WordPress: A Performance and SEO Comparison](https://mansoorbarri.com/guides/hugo-vs-wordpress/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
