@@ -28,9 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
+- [The Pros and Cons of Cloud Computing for Small Businesses](https://mansoorbarri.com/articles/cloud-computing-for-small-businesses/)
+- [Using Canon Camera as Webcam](https://mansoorbarri.com/guides/cannon-camera-as-webcam/)
 - [Pakistan-Origin SideCopy Linked to New Cyberattack on India's Ministry of Defence](https://mansoorbarri.com/articles/pakistan-origin-attack-on-india/)
-- [Step-by-Step Guide on Using Hugo](https://mansoorbarri.com/guides/hugo-101/)
-- [Arid Viper Hacking Group using updated Malware in Middle East Cyber Attacks](https://mansoorbarri.com/articles/upgraded-malware-by-arid-viper/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
