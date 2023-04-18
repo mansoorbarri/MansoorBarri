@@ -28,9 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
+- [Iranian Hackers Exploit SimpleHelp Remote Support Software, Impacting Pakistan](https://mansoorbarri.com/articles/iran-simplehelp-exploit/)
 - [Pakistans' Transparent Tribe Targets India's Education Sector with Crimson RAT](https://mansoorbarri.com/articles/pakistan-apt36-attack-on-india/)
 - [The Pros and Cons of Cloud Computing for Small Businesses](https://mansoorbarri.com/articles/cloud-computing-for-small-businesses/)
-- [Using Canon Camera as Webcam](https://mansoorbarri.com/guides/cannon-camera-as-webcam/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
