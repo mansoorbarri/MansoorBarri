@@ -28,10 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
-- [Iranian Hackers Exploit SimpleHelp Remote Support Software, Impacting Pakistan](https://mansoorbarri.com/articles/iran-simplehelp-exploit/)
-- [Pakistans' Transparent Tribe Targets India's Education Sector with Crimson RAT](https://mansoorbarri.com/articles/pakistan-apt36-attack-on-india/)
-- [The Pros and Cons of Cloud Computing for Small Businesses](https://mansoorbarri.com/articles/cloud-computing-for-small-businesses/)
-
+- [Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies](https://mansoorbarri.com/articles/pakistani-hackers-use-linux-malware/)
+- [Converting PNG to WebP Images in Python: A Step-by-Step Guide](https://mansoorbarri.com/guides/pngtowebp-explain/)
+- [FBI Issues New Warning on Hacked USB Ports](https://mansoorbarri.com/articles/fbi-warns-about-usbs/)
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
   - Twitter   : <https://mansoorbarri.com/twitter>
