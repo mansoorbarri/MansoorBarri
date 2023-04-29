@@ -28,9 +28,10 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
+- [Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers](https://mansoorbarri.com/articles/google-takes-down/)
 - [Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies](https://mansoorbarri.com/articles/pakistani-hackers-use-linux-malware/)
 - [Converting PNG to WebP Images in Python: A Step-by-Step Guide](https://mansoorbarri.com/guides/pngtowebp-explain/)
-- [FBI Issues New Warning on Hacked USB Ports](https://mansoorbarri.com/articles/fbi-warns-about-usbs/)
+
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
   - Twitter   : <https://mansoorbarri.com/twitter>
