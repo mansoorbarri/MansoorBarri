@@ -28,7 +28,7 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
-- [Guide to Digital Privacy](https://mansoorbarri.com/articles/digital-privacy/)
+- [Guide to Digital Privacy](https://mansoorbarri.com/articles/data-privacy/)
 - [Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers](https://mansoorbarri.com/articles/google-takes-down/)
 - [Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies](https://mansoorbarri.com/articles/pakistani-hackers-use-linux-malware/)
 
