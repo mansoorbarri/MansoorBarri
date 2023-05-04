@@ -28,9 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
+- [Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia](https://mansoorbarri.com/articles/meta-uncovers-massive-social-media/)
 - [Guide to Digital Privacy](https://mansoorbarri.com/articles/data-privacy/)
 - [Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers](https://mansoorbarri.com/articles/google-takes-down/)
-- [Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies](https://mansoorbarri.com/articles/pakistani-hackers-use-linux-malware/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
