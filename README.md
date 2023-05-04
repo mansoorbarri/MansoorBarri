@@ -29,7 +29,7 @@
 
 ### 📰 Recent Posts
 - [Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia](https://mansoorbarri.com/articles/meta-uncovers-massive-social-media/)
-- [Guide to Digital Privacy](https://mansoorbarri.com/articles/data-privacy/)
+- [Guide to Digital Privacy](https://mansoorbarri.com/guides/data-privacy/)
 - [Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers](https://mansoorbarri.com/articles/google-takes-down/)
 
 ### 📫 Reach me:
