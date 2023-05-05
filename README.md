@@ -28,9 +28,9 @@
 - Learning .NET framework for .ASPX websites
 
 ### 📰 Recent Posts
+-[Google Introduces Passkey: A New Way to Secure Your Online Accounts](https://mansoorbarri.com/articles/google-passkey/)
 - [Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia](https://mansoorbarri.com/articles/meta-uncovers-massive-social-media/)
 - [Guide to Digital Privacy](https://mansoorbarri.com/guides/data-privacy/)
-- [Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers](https://mansoorbarri.com/articles/google-takes-down/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
@@ -38,5 +38,5 @@
   - Website   : <https://mansoorbarri.com>
   - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
 
-
+ 
 ---
