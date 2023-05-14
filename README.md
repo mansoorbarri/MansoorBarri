@@ -27,6 +27,9 @@
 - Learning python for scripts and automation
 - Learning .NET framework for .ASPX websites
 
+### 🔨 Recent Pull Requests
+- [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
+
 ### 📰 Recent Posts
 - [Google Introduces Passkey: A New Way to Secure Your Online Accounts](https://mansoorbarri.com/articles/google-passkey/)
 - [Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia](https://mansoorbarri.com/articles/meta-uncovers-massive-social-media/)
