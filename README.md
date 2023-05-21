@@ -31,9 +31,10 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
-- [Google Introduces Passkey: A New Way to Secure Your Online Accounts](https://mansoorbarri.com/articles/google-passkey/)
-- [Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia](https://mansoorbarri.com/articles/meta-uncovers-massive-social-media/)
-- [Guide to Digital Privacy](https://mansoorbarri.com/guides/data-privacy/)
+-[Google's New Top-Level Domains Raise Concerns about Online Scams](https://mansoorbarri.com/articles/google-new-tld-domain/)
+- [Unmasking the Mastermind: the Key Player behind Golden Chickens Malware](https://mansoorbarri.com/articles/romanian-mastermind/)
+- [Unveiling Sidewinder Hacker Group's Covert Attack Infrastructure](https://mansoorbarri.com/articles/sidewinder-state-sponsored/)
+- [Custom Toggle with Darkmode.js](https://mansoorbarri.com/guides/custom-toggle-darkmode/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
