@@ -31,10 +31,10 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
--[Google's New Top-Level Domains Raise Concerns about Online Scams](https://mansoorbarri.com/articles/google-new-tld-domain/)
+- [GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments](https://mansoorbarri.com/articles/new-threat-targeting-asia/)
+- [Redired WWW to Cloudflare Pages](https://mansoorbarri.com/guides/cloudflare-www/)
+- [Google's New Top-Level Domains Raise Concerns about Online Scams](https://mansoorbarri.com/articles/google-new-tld-domain/)
 - [Unmasking the Mastermind: the Key Player behind Golden Chickens Malware](https://mansoorbarri.com/articles/romanian-mastermind/)
-- [Unveiling Sidewinder Hacker Group's Covert Attack Infrastructure](https://mansoorbarri.com/articles/sidewinder-state-sponsored/)
-- [Custom Toggle with Darkmode.js](https://mansoorbarri.com/guides/custom-toggle-darkmode/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
