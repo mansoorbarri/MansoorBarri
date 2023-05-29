@@ -31,10 +31,10 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
+- [Make Windows Abit Better](https://mansoorbarri.com/guides/make-windows-abit-better/)
 - [GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments](https://mansoorbarri.com/articles/new-threat-targeting-asia/)
 - [Redired WWW to Cloudflare Pages](https://mansoorbarri.com/guides/cloudflare-www/)
 - [Google's New Top-Level Domains Raise Concerns about Online Scams](https://mansoorbarri.com/articles/google-new-tld-domain/)
-- [Unmasking the Mastermind: the Key Player behind Golden Chickens Malware](https://mansoorbarri.com/articles/romanian-mastermind/)
 
 ### 📫 Reach me:
   - Linkedin  : <https://mansoorbarri.com/linkedin>
