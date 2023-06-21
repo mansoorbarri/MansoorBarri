@@ -31,16 +31,15 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
+- [How To Converter Outlooks' .PST to .EML](https://mansoorbarri.com/guides/pst-to-eml/)
+- [Rogue Android Apps Target Pakistani Individuals](https://mansoorbarri.com/articles/rogue-android-apps-target-pakistani/)
 - [Fix Grub Not Showing for Windows and Linux Dual Boot System](https://mansoorbarri.com/guides/no-grub-windows-linux/)
 - [Hugo Custom URL](https://mansoorbarri.com/guides/hugo-url/)
-- [Make Windows Abit Better](https://mansoorbarri.com/guides/make-windows-abit-better/)
-- [GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments](https://mansoorbarri.com/articles/new-threat-targeting-asia/)
 
 ### 📫 Reach me:
-  - Linkedin  : <https://mansoorbarri.com/linkedin>
-  - Twitter   : <https://mansoorbarri.com/twitter>
-  - Website   : <https://mansoorbarri.com>
-  - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
+- Linkedin  : <https://mansoorbarri.com/linkedin>
+- Twitter   : <https://mansoorbarri.com/twitter>
+- Website   : <https://mansoorbarri.com>
+- Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
 
- 
 ---
