@@ -31,10 +31,10 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
+- [Create SSH Keys & Install Them on a Linux System](https://mansoorbarri.com/guides/ssh-keys-from-linux/)
 - [How To Converter Outlooks' .PST to .EML](https://mansoorbarri.com/guides/pst-to-eml/)
 - [Rogue Android Apps Target Pakistani Individuals](https://mansoorbarri.com/articles/rogue-android-apps-target-pakistani/)
-- [Fix Grub Not Showing for Windows and Linux Dual Boot System](https://mansoorbarri.com/guides/no-grub-windows-linux/)
-- [Hugo Custom URL](https://mansoorbarri.com/guides/hugo-url/)
+- [Fix Grub Not Showing for Windows and Linux Dual Boot System](https://mansoorbarri.com/guides/no-grub-windows-linux/
 
 ### 📫 Reach me:
 - Linkedin  : <https://mansoorbarri.com/linkedin>
