@@ -31,10 +31,11 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
+- [Why 5G Failed to Live Up to its Promises](https://mansoorbarri.com/articles/why-5g-failed/)
 - [Find Social Media Accounts with Sherlock](https://mansoorbarri.com/guides/sherlock/)
 - [Linux for Everyone](https://mansoorbarri.com/guides/linux-for-everyone/)
 - [Create SSH Keys & Install Them on a Linux System](https://mansoorbarri.com/guides/ssh-keys-from-linux/)
--[How To Converter Outlooks' .PST to .EML](https://mansoorbarri.com/guides/pst-to-eml/)
+
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
