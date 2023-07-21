@@ -31,10 +31,10 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
-- [The Intricacies of Cyberwarfare: Understanding the Mechanics and Implications](https://mansoorbarri.com/articles/how-cyberwarfare-works/)
-- [Get a free linux terminal from Google Console](https://mansoorbarri.com/guides/free-google-terminal/)
-- [Why 5G Failed to Live Up to its Promiseswqurky](https://mansoorbarri.com/articles/why-5g-failed/)
-- [Find Social Media Accounts with Sherlock](https://mansoorbarri.com/guides/sherlock/)
+- [Why Linux Isn't Widely Used as an Enterprise Desktop](https://mansoorbarri.com/articles/enterprise-desktop/)
+- [THM | Active Directory Basics](https://mansoorbarri.com/write-ups/winadbasics/)
+- [THM | Intro to Cyber Threat Intel](https://mansoorbarri.com/write-ups/cyberthreatintel/)
+- [Hydra101](https://mansoorbarri.com/guides/hydra101/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
