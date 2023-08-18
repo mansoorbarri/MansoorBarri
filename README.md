@@ -31,10 +31,10 @@
 - [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
 
 ### 📰 Recent Posts
+- [Streamline](https://mansoorbarri.com/blogs/streamline/)
+- [Importance of 2FA & how to enable it](https://mansoorbarri.com/guides/2fa/)
+- [Mirror Android Screen with Sound Wirelessly](https://mansoorbarri.com/guides/wireless-android-screen-mirror/)
 - [The Perfect Phone](https://mansoorbarri.com/guides/the-perfect-phone/)
-- [Pakistan Targeted In a Sophisticated Attack](https://mansoorbarri.com/articles/pakistani-entities-targeted/)
-- [THM | Vulnversity](https://mansoorbarri.com/write-ups/vulnversity/)
-- [Why Linux Isn't Widely Used as an Enterprise Desktop](https://mansoorbarri.com/articles/enterprise-desktop/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
