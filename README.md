@@ -24,17 +24,13 @@
 
 ### 👷 Currently working on [![wakatime](https://wakatime.com/badge/user/a2c64f60-2704-40da-8e5c-c51daf6f8733.svg)](https://wakatime.com/@a2c64f60-2704-40da-8e5c-c51daf6f8733): 
 - [MansoorBarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
-- Learning python for scripts and automation
-- Learning .NET framework for .ASPX websites
-
-### 🔨 Recent Pull Requests
-- [Dark Mode](https://github.com/floyd-li/hugo-theme-itheme/pull/13) on [floyd-li/hugo-theme-itheme](https://github.com/floyd-li/hugo-theme-itheme)
+- Learning android development
 
 ### 📰 Recent Posts
+- [Get Professional Email For Free](https://mansoorbarri.com/guides/professional-email-for-free/)
 - [Streamline](https://mansoorbarri.com/blogs/streamline/)
 - [Importance of 2FA & how to enable it](https://mansoorbarri.com/guides/2fa/)
 - [Mirror Android Screen with Sound Wirelessly](https://mansoorbarri.com/guides/wireless-android-screen-mirror/)
-- [The Perfect Phone](https://mansoorbarri.com/guides/the-perfect-phone/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
