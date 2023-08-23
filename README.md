@@ -27,10 +27,10 @@
 - Learning android development
 
 ### 📰 Recent Posts
+- [Ahrefs: The SEO Speacialist](https://mansoorbarri.com/guides/ahrefs/)
 - [Get Professional Email For Free](https://mansoorbarri.com/guides/professional-email-for-free/)
 - [Streamline](https://mansoorbarri.com/blogs/streamline/)
 - [Importance of 2FA & how to enable it](https://mansoorbarri.com/guides/2fa/)
-- [Mirror Android Screen with Sound Wirelessly](https://mansoorbarri.com/guides/wireless-android-screen-mirror/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
