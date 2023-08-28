@@ -27,10 +27,10 @@
 - Learning android development
 
 ### 📰 Recent Posts
+- [5 Hugo Features You Should Be Using](https://mansoorbarri.com/guides/hugo-tips/)
 - [Academia](https://mansoorbarri.com/blogs/academia/)
 - [Ahrefs: The SEO Speacialist](https://mansoorbarri.com/guides/ahrefs/)
 - [Get Professional Email For Free](https://mansoorbarri.com/guides/professional-email-for-free/)
-- [Streamline](https://mansoorbarri.com/blogs/streamline/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
