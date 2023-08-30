@@ -26,11 +26,12 @@
 - [MansoorBarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 - Learning android development
 
-### 📰 Recent Posts
+### 📰 Recent Post
+- [Google Adsense](https://mansoorbarri.com/guides/google-adsense/)
 - [5 Hugo Features You Should Be Using](https://mansoorbarri.com/guides/hugo-tips/)
 - [Academia](https://mansoorbarri.com/blogs/academia/)
 - [Ahrefs: The SEO Speacialist](https://mansoorbarri.com/guides/ahrefs/)
-- [Get Professional Email For Free](https://mansoorbarri.com/guides/professional-email-for-free/)
+
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
