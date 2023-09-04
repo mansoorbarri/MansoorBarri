@@ -22,11 +22,15 @@
 ---
 
 
-### 👷 Currently working on [![wakatime](https://wakatime.com/badge/user/a2c64f60-2704-40da-8e5c-c51daf6f8733.svg)](https://wakatime.com/@a2c64f60-2704-40da-8e5c-c51daf6f8733): 
+### 👷 Currently working on: 
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple "Coming Soon" HUGO theme with customisation options.
 - [mansoorbarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 
-### 📰 Recent Post
+### 🔨 Recent Pull Requests
+- [blogs/ description remove + pagination fix](https://github.com/maheenwaris/Website/pull/1) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
+- [Merge pull request #4 from MMLTDUK/master](https://github.com/MMLTDUK/Website/pull/5) on [MMLTDUK/Website](https://github.com/MMLTDUK/Website)
+
+  ### 📰 Recent Post
 - [Edit HTML Files With Python](https://mansoorbarri.com/guides/py-html-editor/)
 - [Google Adsense](https://mansoorbarri.com/guides/google-adsense/)
 - [5 Hugo Features You Should Be Using](https://mansoorbarri.com/guides/hugo-tips/)
