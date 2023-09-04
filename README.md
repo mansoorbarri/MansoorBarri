@@ -34,9 +34,7 @@
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
-- Linkedin  : <https://mansoorbarri.com/linkedin>
-- Twitter   : <https://mansoorbarri.com/twitter>
-- Website   : <https://mansoorbarri.com>
+- Linkedin  : <https://linkedin.com/in/mansoorbarri/>
+- Twitter   : <https://twitter.com/mansoorbarri/>
 - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
-
 ---
