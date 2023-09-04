@@ -23,15 +23,14 @@
 
 
 ### 👷 Currently working on [![wakatime](https://wakatime.com/badge/user/a2c64f60-2704-40da-8e5c-c51daf6f8733.svg)](https://wakatime.com/@a2c64f60-2704-40da-8e5c-c51daf6f8733): 
-- [MansoorBarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
-- Learning android development
+- [Mansoorbarri](https://github.com/mansoorbarri/coming-soon) - A simple "Coming Soon" HUGO theme with customisation options.
+- [Mansoorbarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 
 ### 📰 Recent Post
+- [Edit HTML Files With Python](https://mansoorbarri.com/guides/py-html-editor/)
 - [Google Adsense](https://mansoorbarri.com/guides/google-adsense/)
 - [5 Hugo Features You Should Be Using](https://mansoorbarri.com/guides/hugo-tips/)
 - [Academia](https://mansoorbarri.com/blogs/academia/)
-- [Ahrefs: The SEO Speacialist](https://mansoorbarri.com/guides/ahrefs/)
-
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
