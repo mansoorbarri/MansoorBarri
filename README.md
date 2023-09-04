@@ -23,8 +23,8 @@
 
 
 ### 👷 Currently working on [![wakatime](https://wakatime.com/badge/user/a2c64f60-2704-40da-8e5c-c51daf6f8733.svg)](https://wakatime.com/@a2c64f60-2704-40da-8e5c-c51daf6f8733): 
-- [Mansoorbarri](https://github.com/mansoorbarri/coming-soon) - A simple "Coming Soon" HUGO theme with customisation options.
-- [Mansoorbarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple "Coming Soon" HUGO theme with customisation options.
+- [mansoorbarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 
 ### 📰 Recent Post
 - [Edit HTML Files With Python](https://mansoorbarri.com/guides/py-html-editor/)
