@@ -31,10 +31,10 @@
 - [Merge pull request #4 from MMLTDUK/master](https://github.com/MMLTDUK/Website/pull/5) on [MMLTDUK/Website](https://github.com/MMLTDUK/Website)
 
   ### 📰 Recent Post
+- [Creative Block](https://mansoorbarri.com/newsletter/creative-block/)
+- [Scripting in Python | Py4](https://mansoorbarri.com/guides/scripting-py4/)
+- [Modules in Python | Py3](https://mansoorbarri.com/guides/modules-py3/)
 - [If & else | py3](https://mansoorbarri.com/guides/if-else-py3/)
-- [Make a Helpdesk Bot | Py2](https://mansoorbarri.com/guides/make-a-bot-py2)
-- [Python course for Beginners | py1](https://mansoorbarri.com/guides/python-course-py1)
-- [Assign-mint](https://mansoorbarri.com/newsletter/assign-mint)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
