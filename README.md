@@ -23,7 +23,7 @@
 
 
 ### 👷 Currently working on: 
-- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple "Coming Soon" HUGO theme with customisation options.
+- Learning C# for app development, specifically for Linux app development
 - [mansoorbarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 
 ### 🔨 Recent Pull Requests
