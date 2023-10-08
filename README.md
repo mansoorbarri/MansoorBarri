@@ -27,10 +27,11 @@
 - [mansoorbarri/website](https://github.com/MansoorBarri/website.git) - HUGO website for blogs, redirects and IT services.
 
 ### 🔨 Recent Pull Requests
+- [add theme coming-soon](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/368)
 - [blogs/ description remove + pagination fix](https://github.com/maheenwaris/Website/pull/1) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [Merge pull request #4 from MMLTDUK/master](https://github.com/MMLTDUK/Website/pull/5) on [MMLTDUK/Website](https://github.com/MMLTDUK/Website)
 
-  ### 📰 Recent Post
+### 📰 Recent Post
 - [Creative Block](https://mansoorbarri.com/newsletter/creative-block/)
 - [Scripting in Python | Py4](https://mansoorbarri.com/guides/scripting-py4/)
 - [Modules in Python | Py3](https://mansoorbarri.com/guides/modules-py3/)
@@ -41,4 +42,5 @@
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
 - Twitter   : <https://twitter.com/mansoorbarri/>
 - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
+
 ---
