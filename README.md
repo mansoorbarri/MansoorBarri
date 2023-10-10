@@ -24,9 +24,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
-- [mansoorbarri/python-course](https://github.com/mansoorbarri/python-course) - 
+- [mansoorbarri/python-course](https://github.com/mansoorbarri/python-course) - All the code used in my Python course
 
 ### 🔨 Recent Pull Requests
 
