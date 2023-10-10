@@ -23,17 +23,17 @@
 
 
 ### 👷 Currently working on: 
-{{ range recentContributions 5 }}
+{{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 ### 🔨 Recent Pull Requests
-{{ range recentPullRequests 5 }}
+{{ range recentPullRequests 3 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
 ### 📰 Recent Post
-{{ range rss "https://christitus.com/index.xml" 5 }}
+{{ range rss "https://mansoorbarri.com/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 
