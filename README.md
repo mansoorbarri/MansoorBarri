@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Vpns Scam](https://mansoorbarri.com/guides/vpns-scam/)
 - [Godot First Impressions as a web developer](https://mansoorbarri.com/guides/godot/)
 - [Creative Block](https://mansoorbarri.com/newsletter/creative-block/)
-- [Scripting in Python | Py4](https://mansoorbarri.com/guides/scripting-py4/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
