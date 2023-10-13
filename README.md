@@ -1,3 +1,6 @@
+## [Mansoor Barri](https://mansoorbarri.com/)
+`Someone who loves IT`
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mansoorbarri&theme=onedark)
 
 ---
