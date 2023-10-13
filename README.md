@@ -24,9 +24,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Upload Your Theme to Official Hugo Website](https://mansoorbarri.com/guides/hugo-theme/)
 - [Vpns Scam](https://mansoorbarri.com/guides/vpns-scam/)
 - [Godot First Impressions as a web developer](https://mansoorbarri.com/guides/godot/)
-- [Creative Block](https://mansoorbarri.com/newsletter/creative-block/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
