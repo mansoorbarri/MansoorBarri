@@ -1,7 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansoorbarri&theme=onedark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=floyd-li&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansoorbarri&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mansoorbarri&theme=onedark)
 
 ---
 
