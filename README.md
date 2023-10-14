@@ -37,9 +37,9 @@
 
 ### 📰 Recent Post
 
+- [Come Back](https://mansoorbarri.com/newsletter/come-back/)
 - [Upload Your Theme to Official Hugo Website](https://mansoorbarri.com/guides/hugo-theme/)
 - [Vpns Scam](https://mansoorbarri.com/guides/vpns-scam/)
-- [Godot First Impressions as a web developer](https://mansoorbarri.com/guides/godot/)
 
 ### 📫 Reach me:
 - Github    : [https://github.com/mansoorbarri](https://mansoorbarri.com/cp-osint.html)
