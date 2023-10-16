@@ -37,9 +37,9 @@
 
 ### 📰 Recent Post
 
+- [How to automate your GitHub profile](https://mansoorbarri.com/guides/readme-automation/)
 - [Come Back](https://mansoorbarri.com/newsletter/come-back/)
 - [Upload Your Theme to Official Hugo Website](https://mansoorbarri.com/guides/hugo-theme/)
-- [Vpns Scam](https://mansoorbarri.com/guides/vpns-scam/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
