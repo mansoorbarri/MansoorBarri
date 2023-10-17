@@ -31,9 +31,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Google drive &amp; spotify added ](https://github.com/ChrisTitusTech/winutil/pull/1113) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [add theme coming-soon](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/368) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [themes.txt updated](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/358) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [blogs listed equally](https://github.com/maheenwaris/Website/pull/2) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 
 ### 📰 Recent Post
 
