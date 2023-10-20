@@ -37,9 +37,9 @@
 
 ### 📰 Recent Post
 
+- [Web Hosting](https://mansoorbarri.com/guides/web-hosting/)
 - [Github Profile Readme](https://mansoorbarri.com/guides/gh-profile-readme/)
 - [How to automate your GitHub profile](https://mansoorbarri.com/guides/readme-automation/)
-- [Come Back](https://mansoorbarri.com/newsletter/come-back/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
