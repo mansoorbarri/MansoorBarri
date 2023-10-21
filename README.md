@@ -37,9 +37,9 @@
 
 ### 📰 Recent Post
 
+- [Cyber War](https://mansoorbarri.com/newsletter/cyber-war/)
 - [Web Hosting](https://mansoorbarri.com/guides/web-hosting/)
 - [Github Profile Readme](https://mansoorbarri.com/guides/gh-profile-readme/)
-- [How to automate your GitHub profile](https://mansoorbarri.com/guides/readme-automation/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
