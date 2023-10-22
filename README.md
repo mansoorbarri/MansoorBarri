@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [search added via google](https://github.com/mansoorbarri/website/pull/15) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [back to top button added](https://github.com/526avijitgupta/gokarna/pull/196) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [social icons added](https://github.com/mansoorbarri/coming-soon/pull/3) on [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon)
-- [Fixed: Twitch embed mobile view ](https://github.com/ChrisTitusTech/website/pull/166) on [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website)
 
 ### 📰 Recent Post
 
