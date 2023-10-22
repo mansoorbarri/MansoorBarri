@@ -30,7 +30,7 @@
 
 ### 🔨 Recent Pull Requests
 
-- [fixes: #165](https://github.com/526avijitgupta/gokarna/pull/198) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
+- [fixes: #165 | removed &#34;releases&#34; from documentation ](https://github.com/526avijitgupta/gokarna/pull/198) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [fixed #155: back to top button](https://github.com/526avijitgupta/gokarna/pull/197) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [search added via google](https://github.com/mansoorbarri/website/pull/15) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 
