@@ -1,5 +1,4 @@
 ## [Mansoor Barri](https://mansoorbarri.com/)
-`Someone who loves IT`
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mansoorbarri&theme=onedark)
 
@@ -26,14 +25,14 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
-- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
+- [back to top button added](https://github.com/526avijitgupta/gokarna/pull/196) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [social icons added](https://github.com/mansoorbarri/coming-soon/pull/3) on [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon)
 - [Fixed: Twitch embed mobile view ](https://github.com/ChrisTitusTech/website/pull/166) on [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website)
-- [Google drive &amp; spotify added ](https://github.com/ChrisTitusTech/winutil/pull/1113) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 
 ### 📰 Recent Post
 
