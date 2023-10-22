@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [fixes: #165](https://github.com/526avijitgupta/gokarna/pull/198) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
+- [fixed #155: back to top button](https://github.com/526avijitgupta/gokarna/pull/197) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [search added via google](https://github.com/mansoorbarri/website/pull/15) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
-- [back to top button added](https://github.com/526avijitgupta/gokarna/pull/196) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
-- [social icons added](https://github.com/mansoorbarri/coming-soon/pull/3) on [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon)
 
 ### 📰 Recent Post
 
