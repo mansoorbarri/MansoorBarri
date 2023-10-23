@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Best Email Clients for Linux](https://mansoorbarri.com/guides/email-clients/)
 - [Cyber War](https://mansoorbarri.com/newsletter/cyber-war/)
 - [Web Hosting](https://mansoorbarri.com/guides/web-hosting/)
-- [Github Profile Readme](https://mansoorbarri.com/guides/gh-profile-readme/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
