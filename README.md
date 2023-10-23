@@ -24,15 +24,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
+- [Update 22 10](https://github.com/mansoorbarri/coming-soon/pull/6) on [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon)
 - [fixes: #165 | removed &#34;releases&#34; from documentation ](https://github.com/526avijitgupta/gokarna/pull/198) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [fixed #155: back to top button](https://github.com/526avijitgupta/gokarna/pull/197) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
-- [search added via google](https://github.com/mansoorbarri/website/pull/15) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 
 ### 📰 Recent Post
 
