@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [hugo: local build command](https://github.com/tldr-pages/tldr/pull/11193) on [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 - [Update 22 10](https://github.com/mansoorbarri/coming-soon/pull/6) on [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon)
 - [fixes: #165 | removed &#34;releases&#34; from documentation ](https://github.com/526avijitgupta/gokarna/pull/198) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
-- [fixed #155: back to top button](https://github.com/526avijitgupta/gokarna/pull/197) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 
 ### 📰 Recent Post
 
