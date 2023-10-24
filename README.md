@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Light mode fix](https://github.com/maheenwaris/Website/pull/5) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
+- [update 1](https://github.com/mansoorbarri/website/pull/16) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [google fonts to bunny fonts](https://github.com/maheenwaris/Website/pull/4) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
-- [hugo: add example](https://github.com/tldr-pages/tldr/pull/11193) on [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-- [Update 22 10](https://github.com/mansoorbarri/coming-soon/pull/6) on [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon)
 
 ### 📰 Recent Post
 
