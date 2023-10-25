@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [How to Contribute to Open-source Projects](https://mansoorbarri.com/guides/opensource-contribute/)
 - [Best Email Clients for Linux](https://mansoorbarri.com/guides/email-clients/)
 - [Cyber War](https://mansoorbarri.com/newsletter/cyber-war/)
-- [Web Hosting](https://mansoorbarri.com/guides/web-hosting/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
