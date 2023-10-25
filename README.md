@@ -24,8 +24,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
@@ -37,8 +37,8 @@
 ### 📰 Recent Post
 
 - [How to Contribute to Open-source Projects](https://mansoorbarri.com/guides/opensource-contribute/)
+- [Privary Policy](https://mansoorbarri.com/privacy-policy/)
 - [Best Email Clients for Linux](https://mansoorbarri.com/guides/email-clients/)
-- [Cyber War](https://mansoorbarri.com/newsletter/cyber-war/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
