@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Icks and Observations](https://mansoorbarri.com/newsletter/icks-and-observations/)
 - [How to add copy code button on Hugo sites](https://mansoorbarri.com/guides/copy-code/)
 - [How to Contribute to Open-source Projects](https://mansoorbarri.com/guides/opensource-contribute/)
-- [Privary Policy](https://mansoorbarri.com/privacy-policy/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
