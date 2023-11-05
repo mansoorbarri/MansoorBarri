@@ -24,15 +24,15 @@
 
 ### 👷 Currently working on: 
 
-- [maheenwaris/Website](https://github.com/maheenwaris/Website) - My Personal Hugo site
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
+- [right and bottom padding fixed](https://github.com/maheenwaris/Website/pull/7) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [copy code button added](https://github.com/maheenwaris/Website/pull/6) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [Theme default](https://github.com/mansoorbarri/website/pull/17) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
-- [documentation updated #190](https://github.com/526avijitgupta/gokarna/pull/200) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 
 ### 📰 Recent Post
 
