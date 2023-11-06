@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [comments added ](https://github.com/526avijitgupta/gokarna/pull/201) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [right and bottom padding fixed](https://github.com/maheenwaris/Website/pull/7) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [copy code button added](https://github.com/maheenwaris/Website/pull/6) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
-- [Theme default](https://github.com/mansoorbarri/website/pull/17) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 
 ### 📰 Recent Post
 
