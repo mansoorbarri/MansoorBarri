@@ -24,8 +24,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Monitor Your Coding Analytics with Wakatime](https://mansoorbarri.com/guides/wakatime/)
 - [Icks and Observations](https://mansoorbarri.com/newsletter/icks-and-observations/)
 - [How to add copy code button on Hugo sites](https://mansoorbarri.com/guides/copy-code/)
-- [How to Contribute to Open-source Projects](https://mansoorbarri.com/guides/opensource-contribute/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
