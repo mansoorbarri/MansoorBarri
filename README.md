@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [pagespeed screenshot updated ](https://github.com/maheenwaris/hugo-portfolio/pull/3) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 - [hugo init](https://github.com/maheenwaris/hugo-portfolio/pull/1) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 - [comments added ](https://github.com/526avijitgupta/gokarna/pull/201) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
-- [right and bottom padding fixed](https://github.com/maheenwaris/Website/pull/7) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 
 ### 📰 Recent Post
 
