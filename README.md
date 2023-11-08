@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Cloudflare vs Netlify | Who to choose?](https://mansoorbarri.com/guides/cloudflare-vs-netlify/)
 - [Monitor Your Coding Analytics with Wakatime](https://mansoorbarri.com/guides/wakatime/)
 - [Icks and Observations](https://mansoorbarri.com/newsletter/icks-and-observations/)
-- [How to add copy code button on Hugo sites](https://mansoorbarri.com/guides/copy-code/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
