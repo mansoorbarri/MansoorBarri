@@ -26,13 +26,13 @@
 
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
+- [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio) - A simple Portfolio for you by your&#39;s truly
 
 ### 🔨 Recent Pull Requests
 
+- [hugo init](https://github.com/maheenwaris/hugo-portfolio/pull/1) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 - [comments added ](https://github.com/526avijitgupta/gokarna/pull/201) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [right and bottom padding fixed](https://github.com/maheenwaris/Website/pull/7) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
-- [copy code button added](https://github.com/maheenwaris/Website/pull/6) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 
 ### 📰 Recent Post
 
