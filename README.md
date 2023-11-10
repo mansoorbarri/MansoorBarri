@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [How to create an issue on GitHub projects](https://mansoorbarri.com/guides/gh-issues/)
 - [Cloudflare vs Netlify | Who to choose?](https://mansoorbarri.com/guides/cloudflare-vs-netlify/)
 - [Monitor Your Coding Analytics with Wakatime](https://mansoorbarri.com/guides/wakatime/)
-- [Icks and Observations](https://mansoorbarri.com/newsletter/icks-and-observations/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
