@@ -24,15 +24,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) - A minimal links page made with Hugo 
+- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
+- [add theme glim-midnight](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/377) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [pagespeed screenshot updated ](https://github.com/maheenwaris/hugo-portfolio/pull/3) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 - [hugo init](https://github.com/maheenwaris/hugo-portfolio/pull/1) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
-- [comments added ](https://github.com/526avijitgupta/gokarna/pull/201) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 
 ### 📰 Recent Post
 
