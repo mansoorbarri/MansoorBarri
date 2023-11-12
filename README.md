@@ -24,9 +24,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) - A minimal links page made with Hugo 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
