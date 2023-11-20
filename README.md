@@ -24,8 +24,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 
 ### 🔨 Recent Pull Requests
@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [How I type Inhumanly Fast | 35 to 100 WPM](https://mansoorbarri.com/guides/wpm/)
 - [Glim Midnight Hugo theme](https://mansoorbarri.com/downloads/glim-midnight/)
 - [How to create an issue on GitHub projects](https://mansoorbarri.com/guides/gh-issues/)
-- [Cloudflare vs Netlify | Who to choose?](https://mansoorbarri.com/guides/cloudflare-vs-netlify/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
