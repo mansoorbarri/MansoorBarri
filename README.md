@@ -30,15 +30,15 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Update README.md](https://github.com/maheenwaris/hugo-portfolio/pull/4) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 - [long footer fixed](https://github.com/526avijitgupta/gokarna/pull/204) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 - [Change date format #135](https://github.com/526avijitgupta/gokarna/pull/203) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
-- [add theme glim-midnight](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/377) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 
 ### 📰 Recent Post
 
+- [End Of 2023](https://mansoorbarri.com/newsletter/end-of-2023/)
+- [Prototype](https://mansoorbarri.com/newsletter/prototype/)
 - [How I type Inhumanly Fast | 35 to 100 WPM](https://mansoorbarri.com/guides/wpm/)
-- [Glim Midnight Hugo theme](https://mansoorbarri.com/downloads/glim-midnight/)
-- [How to create an issue on GitHub projects](https://mansoorbarri.com/guides/gh-issues/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
