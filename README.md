@@ -24,8 +24,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io
 
 ### 🔨 Recent Pull Requests
@@ -36,9 +36,9 @@
 
 ### 📰 Recent Post
 
+- [Completely Remove YouTube Shorts](https://mansoorbarri.com/guides/remove-youtube-shorts/)
 - [End Of 2023](https://mansoorbarri.com/newsletter/end-of-2023/)
 - [Prototype](https://mansoorbarri.com/newsletter/prototype/)
-- [How I type Inhumanly Fast | 35 to 100 WPM](https://mansoorbarri.com/guides/wpm/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
