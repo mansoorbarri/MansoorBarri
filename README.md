@@ -30,9 +30,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [add theme hugo-portfolio](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/410) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [Update README.md](https://github.com/maheenwaris/hugo-portfolio/pull/4) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 - [long footer fixed](https://github.com/526avijitgupta/gokarna/pull/204) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
-- [Change date format #135](https://github.com/526avijitgupta/gokarna/pull/203) on [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna)
 
 ### 📰 Recent Post
 
