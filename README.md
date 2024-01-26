@@ -24,7 +24,7 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/hugo-checker](https://github.com/mansoorbarri/hugo-checker) - A python script to check if your Hugo theme meets all the requirements
+- [mansoorbarri/hugo-validator](https://github.com/mansoorbarri/hugo-validator) - A python script to check if your Hugo theme meets all the requirements
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
@@ -36,7 +36,7 @@
 
 ### 📰 Recent Post
 
-- [Hugo Theme Submission Validation Script](https://mansoorbarri.com/downloads/hugo-checker/)
+- [Hugo Theme Submission Validation Script](https://mansoorbarri.com/downloads/hugo-validator/)
 - [Completely Remove YouTube Shorts](https://mansoorbarri.com/guides/remove-youtube-shorts/)
 - [End Of 2023](https://mansoorbarri.com/newsletter/end-of-2023/)
 
