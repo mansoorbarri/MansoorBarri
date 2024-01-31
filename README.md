@@ -24,9 +24,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
-- [mansoorbarri/hugo-validator](https://github.com/mansoorbarri/hugo-validator) - A python script to check if your Hugo theme meets all the requirements
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
