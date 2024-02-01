@@ -24,8 +24,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/syho](https://github.com/mansoorbarri/syho) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/syho](https://github.com/mansoorbarri/syho) - 
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
