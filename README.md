@@ -24,8 +24,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/syho](https://github.com/mansoorbarri/syho) - 
 
 ### 🔨 Recent Pull Requests
