@@ -24,9 +24,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/syho](https://github.com/mansoorbarri/syho) - 
-- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
@@ -38,7 +38,7 @@
 
 - [Hugo Theme Submission Validation Script](https://mansoorbarri.com/downloads/hugo-validator/)
 - [Completely Remove YouTube Shorts](https://mansoorbarri.com/guides/remove-youtube-shorts/)
-- [End Of 2023](https://mansoorbarri.com/newsletter/end-of-2023/)
+- [Big Brother](https://mansoorbarri.com/newsletter/big-brother/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
