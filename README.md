@@ -21,8 +21,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/tldr.sh](https://github.com/mansoorbarri/tldr.sh) - A clone of tldr.sh for hugo
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [How Can GitHub Fix Spamming?](https://mansoorbarri.com/github-spam-fix/)
 - [Hugo Theme Submission Validation Script](https://mansoorbarri.com/downloads/hugo-validator/)
-- [Completely Remove YouTube Shorts](https://mansoorbarri.com/guides/remove-youtube-shorts/)
-- [Big Brother](https://mansoorbarri.com/newsletter/big-brother/)
+- [Completely Remove YouTube Shorts](https://mansoorbarri.com/remove-youtube-shorts/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
