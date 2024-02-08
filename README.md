@@ -21,8 +21,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/S-H](https://github.com/mansoorbarri/S-H) - 
-- [Fatimab96/uni-assignments](https://github.com/Fatimab96/uni-assignments) - ls assignments
 
 ### 🔨 Recent Pull Requests
 
