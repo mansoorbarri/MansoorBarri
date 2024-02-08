@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/S-H](https://github.com/mansoorbarri/S-H) - 
 - [Fatimab96/uni-assignments](https://github.com/Fatimab96/uni-assignments) - ls assignments
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
