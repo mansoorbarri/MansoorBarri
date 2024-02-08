@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [The Ultimate Guide to Github On Linux](https://mansoorbarri.com/ultimate-gh-guide/)
 - [How Can GitHub Fix Spamming?](https://mansoorbarri.com/github-spam-fix/)
 - [Hugo Theme Submission Validation Script](https://mansoorbarri.com/downloads/hugo-validator/)
-- [Completely Remove YouTube Shorts](https://mansoorbarri.com/remove-youtube-shorts/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
