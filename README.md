@@ -26,9 +26,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [git-clone: add --recurse-submodules](https://github.com/tldr-pages/tldr/pull/12243) on [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 - [add theme tldr.sh](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/415) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [add theme hugo-portfolio](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/410) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [Update README.md](https://github.com/maheenwaris/hugo-portfolio/pull/4) on [maheenwaris/hugo-portfolio](https://github.com/maheenwaris/hugo-portfolio)
 
 ### 📰 Recent Post
 
