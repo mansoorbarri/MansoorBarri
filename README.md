@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [fatal: could not read username for https://github.com: terminal prompts disabled](https://mansoorbarri.com/could-not-read-username/)
 - [Welp](https://mansoorbarri.com/newsletter/welp/)
 - [The Ultimate Guide to Github On Linux](https://mansoorbarri.com/ultimate-gh-guide/)
-- [How Can GitHub Fix Spamming?](https://mansoorbarri.com/github-spam-fix/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
