@@ -20,15 +20,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
+- [merge branch {accessibility} ](https://github.com/mansoorbarri/unit6/pull/3) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 - [add: brands section @ landing page](https://github.com/mansoorbarri/unit6/pull/2) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 - [git-clone: add --recurse-submodules](https://github.com/tldr-pages/tldr/pull/12243) on [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-- [add theme tldr.sh](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/415) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 
 ### 📰 Recent Post
 
