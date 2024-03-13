@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/marcel](https://github.com/mansoorbarri/marcel) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
+- [mansoorbarri/marcel](https://github.com/mansoorbarri/marcel) - 
 
 ### 🔨 Recent Pull Requests
 
