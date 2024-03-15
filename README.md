@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [Firstlance](https://mansoorbarri.com/newsletter/firstlance/)
 - [fatal: could not read username for https://github.com: terminal prompts disabled](https://mansoorbarri.com/could-not-read-username/)
 - [Welp](https://mansoorbarri.com/newsletter/welp/)
-- [The Ultimate Guide to Github On Linux](https://mansoorbarri.com/ultimate-gh-guide/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
