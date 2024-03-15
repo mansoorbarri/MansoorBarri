@@ -22,7 +22,7 @@
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
-- [mansoorbarri/marcel](https://github.com/mansoorbarri/marcel) - 
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
