@@ -26,9 +26,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [add theme brit-hugo](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/434) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [merge branch {accessibility} ](https://github.com/mansoorbarri/unit6/pull/3) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 - [add: brands section @ landing page](https://github.com/mansoorbarri/unit6/pull/2) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
-- [git-clone: add --recurse-submodules](https://github.com/tldr-pages/tldr/pull/12243) on [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 ### 📰 Recent Post
 
