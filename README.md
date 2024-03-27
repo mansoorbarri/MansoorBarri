@@ -20,8 +20,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
 
 ### 🔨 Recent Pull Requests
@@ -32,7 +32,7 @@
 
 ### 📰 Recent Post
 
-- [Css Integrity Error Hugo](https://mansoorbarri.com/css-integrity-error-hugo/)
+- [CSS Integrity Error Hugo](https://mansoorbarri.com/css-integrity-error-hugo/)
 - [Firstlance](https://mansoorbarri.com/newsletter/firstlance/)
 - [fatal: could not read username for https://github.com: terminal prompts disabled](https://mansoorbarri.com/could-not-read-username/)
 
