@@ -20,21 +20,21 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [Codespace supreme goggles 5p5xwww6x9w2vw76](https://github.com/mansoorbarri/website/pull/20) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [add theme brit-hugo](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/434) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [merge branch {accessibility} ](https://github.com/mansoorbarri/unit6/pull/3) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
-- [add: brands section @ landing page](https://github.com/mansoorbarri/unit6/pull/2) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 
 ### 📰 Recent Post
 
+- [Css Integrity Error Hugo](https://mansoorbarri.com/css-integrity-error-hugo/)
 - [Firstlance](https://mansoorbarri.com/newsletter/firstlance/)
 - [fatal: could not read username for https://github.com: terminal prompts disabled](https://mansoorbarri.com/could-not-read-username/)
-- [Welp](https://mansoorbarri.com/newsletter/welp/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
