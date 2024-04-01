@@ -20,15 +20,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [marcelvenema/marcelvenema.github.io](https://github.com/marcelvenema/marcelvenema.github.io) - Website based on Hugo
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [fix pagination &amp; foldergallery requiring a -thumb image ](https://github.com/marcelvenema/marcelvenema.github.io/pull/2) on [marcelvenema/marcelvenema.github.io](https://github.com/marcelvenema/marcelvenema.github.io)
 - [Codespace supreme goggles 5p5xwww6x9w2vw76](https://github.com/mansoorbarri/website/pull/20) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [add theme brit-hugo](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/434) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [merge branch {accessibility} ](https://github.com/mansoorbarri/unit6/pull/3) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 
 ### 📰 Recent Post
 
