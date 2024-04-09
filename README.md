@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/indirect](https://github.com/mansoorbarri/indirect) - An Instagram Redirector Chrome Extension
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
-- [mansoorbarri/Davlux](https://github.com/mansoorbarri/Davlux) - Minimal theme for Hugo, built with Tailwind.
 
 ### 🔨 Recent Pull Requests
 
