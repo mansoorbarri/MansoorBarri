@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/qr-code](https://github.com/mansoorbarri/qr-code) - 
-- [mansoorbarri/indirect](https://github.com/mansoorbarri/indirect) - An Instagram Redirector Chrome Extension
 
 ### 🔨 Recent Pull Requests
 
@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [Python QR-code Generator](https://mansoorbarri.com/qrcode-generator/)
 - [Productive = Accustomed](https://mansoorbarri.com/newsletter/productive-=-accustomed/)
 - [CSS Integrity Error Hugo](https://mansoorbarri.com/css-integrity-error-hugo/)
-- [Firstlance](https://mansoorbarri.com/newsletter/firstlance/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
