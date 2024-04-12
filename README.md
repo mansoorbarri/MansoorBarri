@@ -20,8 +20,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/qr-code](https://github.com/mansoorbarri/qr-code) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/qr-code](https://github.com/mansoorbarri/qr-code) - 
 - [mansoorbarri/indirect](https://github.com/mansoorbarri/indirect) - An Instagram Redirector Chrome Extension
 
 ### 🔨 Recent Pull Requests
