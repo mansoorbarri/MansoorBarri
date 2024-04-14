@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
-- [mansoorbarri/qr-code](https://github.com/mansoorbarri/qr-code) - 
 
 ### 🔨 Recent Pull Requests
 
@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [How to install Neovim on Debian the right way](https://mansoorbarri.com/neovim-debian/)
 - [Python QR-code Generator](https://mansoorbarri.com/qrcode-generator/)
 - [Productive = Accustomed](https://mansoorbarri.com/newsletter/productive-=-accustomed/)
-- [CSS Integrity Error Hugo](https://mansoorbarri.com/css-integrity-error-hugo/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
