@@ -20,9 +20,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
 
 ### 🔨 Recent Pull Requests
 
