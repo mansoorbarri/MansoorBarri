@@ -32,9 +32,9 @@
 
 ### 📰 Recent Post
 
+- [My Vim Journey](https://mansoorbarri.com/newsletter/vim-journey/)
 - [How to install Neovim on Debian the right way](https://mansoorbarri.com/neovim-debian/)
 - [Python QR-code Generator](https://mansoorbarri.com/qrcode-generator/)
-- [Productive = Accustomed](https://mansoorbarri.com/newsletter/productive-=-accustomed/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
