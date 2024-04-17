@@ -21,6 +21,7 @@
 
 ---
 
+</div>
 
 ### 👷 Currently working on: 
 {{ range recentContributions 3 }}
@@ -43,5 +44,3 @@
 - Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
 
 ---
-
-</div>
