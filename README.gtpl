@@ -16,9 +16,6 @@
 <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />          
 </div>
-
----
-
 </div>
 
 ### 👷 Currently working on: 
