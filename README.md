@@ -25,9 +25,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [add: cookie consent popup](https://github.com/mansoorbarri/unit6/pull/4) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 - [Codespace supreme goggles 5p5xwww6x9w2vw76](https://github.com/mansoorbarri/website/pull/20) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [add theme brit-hugo](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/434) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [merge branch {accessibility} ](https://github.com/mansoorbarri/unit6/pull/3) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 
 ### 📰 Recent Post
 
