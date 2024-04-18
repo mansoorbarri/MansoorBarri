@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
-- [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6) - 
 
 ### 🔨 Recent Pull Requests
 
