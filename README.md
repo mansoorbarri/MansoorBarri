@@ -20,14 +20,14 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/Davlux](https://github.com/mansoorbarri/Davlux) - Minimal theme for Hugo, built with Tailwind.
-- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
 
 ### 🔨 Recent Pull Requests
 
+- [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/448) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [add: cookie consent popup](https://github.com/mansoorbarri/unit6/pull/4) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 - [Codespace supreme goggles 5p5xwww6x9w2vw76](https://github.com/mansoorbarri/website/pull/20) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
-- [add theme brit-hugo](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/434) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 
 ### 📰 Recent Post
 
