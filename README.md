@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/learnMEARN](https://github.com/mansoorbarri/learnMEARN) - A repo with project made whilst learning MERN [&#34;mongoose&#34;, &#34;express&#34;, &#34;react&#34;, &#34;nextjs&#34;]
 - [mansoorbarri/Davlux](https://github.com/mansoorbarri/Davlux) - Minimal theme for Hugo, built with Tailwind.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/lintil](https://github.com/mansoorbarri/lintil) - A utility app for Linux - install programs &amp; tweaks
 
 ### 🔨 Recent Pull Requests
 
