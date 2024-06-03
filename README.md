@@ -20,8 +20,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
-- [mansoorbarri/learnMEARN](https://github.com/mansoorbarri/learnMEARN) - A repo with project made whilst learning MERN [&#34;mongoose&#34;, &#34;express&#34;, &#34;react&#34;, &#34;nextjs&#34;]
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/learnMEARN](https://github.com/mansoorbarri/learnMEARN) - A repo with project made whilst learning MERN [&#34;mongoose&#34;, &#34;express&#34;, &#34;react&#34;, &#34;nextjs&#34;]
 
 ### 🔨 Recent Pull Requests
 
@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [4 Essential Markdown Tools](https://mansoorbarri.com/essential-markdown-tools/)
 - [My Vim Journey](https://mansoorbarri.com/newsletter/vim-journey/)
 - [How to install Neovim on Debian the right way](https://mansoorbarri.com/neovim-debian/)
-- [Python QR-code Generator](https://mansoorbarri.com/qrcode-generator/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
