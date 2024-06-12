@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/Davlux](https://github.com/mansoorbarri/Davlux) - Minimal theme for Hugo, built with Tailwind.
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [Use npm with Hugo](https://mansoorbarri.com/npm-hugo/)
 - [4 Essential Markdown Tools](https://mansoorbarri.com/essential-markdown-tools/)
 - [My Vim Journey](https://mansoorbarri.com/newsletter/vim-journey/)
-- [How to install Neovim on Debian the right way](https://mansoorbarri.com/neovim-debian/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
