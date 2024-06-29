@@ -25,9 +25,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Copy code button](https://github.com/halogenica/beautifulhugo/pull/499) on [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
 - [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/475) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/448) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [add: cookie consent popup](https://github.com/mansoorbarri/unit6/pull/4) on [mansoorbarri/unit6](https://github.com/mansoorbarri/unit6)
 
 ### 📰 Recent Post
 
