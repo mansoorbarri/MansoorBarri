@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/learning-fullstack](https://github.com/mansoorbarri/learning-fullstack) - A repo with project made whilst learning MERN [&#34;mongoose&#34;, &#34;express&#34;, &#34;react&#34;, &#34;nextjs&#34;]
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [How Internet Firewalls Work?](https://mansoorbarri.com/internet-firewall-pk/)
 - [What we can learn from the polyfill.js attack](https://mansoorbarri.com/polyfill-js/)
 - [Where Have I Been?](https://mansoorbarri.com/newsletter/where-have-i-been/)
-- [Use npm with Hugo](https://mansoorbarri.com/npm-hugo/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
