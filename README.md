@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/learning-fullstack](https://github.com/mansoorbarri/learning-fullstack) - A repo with project made whilst learning MERN [&#34;mongoose&#34;, &#34;express&#34;, &#34;react&#34;, &#34;nextjs&#34;]
 
 ### 🔨 Recent Pull Requests
