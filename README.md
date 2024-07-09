@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [Reset BIOS Adminstration Password](https://mansoorbarri.com/bios-password/)
 - [How Internet Firewalls Work?](https://mansoorbarri.com/internet-firewall-pk/)
 - [What we can learn from the polyfill.js attack](https://mansoorbarri.com/polyfill-js/)
-- [Where Have I Been?](https://mansoorbarri.com/newsletter/where-have-i-been/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
