@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/techtracker](https://github.com/mansoorbarri/techtracker) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/techtracker](https://github.com/mansoorbarri/techtracker) - 
 - [mansoorbarri/scripts](https://github.com/mansoorbarri/scripts) - 
 
 ### 🔨 Recent Pull Requests
