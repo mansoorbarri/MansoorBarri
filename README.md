@@ -20,8 +20,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/techtracker](https://github.com/mansoorbarri/techtracker) - 
-- [techtracker5/techtracker5.github.io](https://github.com/techtracker5/techtracker5.github.io) - &lt; Technology Simplified &gt;
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [techtracker5/techtracker5.github.io](https://github.com/techtracker5/techtracker5.github.io) - &lt; Technology Simplified &gt;
 
 ### 🔨 Recent Pull Requests
 
