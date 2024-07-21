@@ -20,14 +20,14 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/techtracker](https://github.com/mansoorbarri/techtracker) - 
+- [mansoorbarri/techtracker5.github.io](https://github.com/mansoorbarri/techtracker5.github.io) - &lt; Technology Simplified &gt;
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [techtracker5/techtracker5.github.io](https://github.com/techtracker5/techtracker5.github.io) - &lt; Technology Simplified &gt;
 
 ### 🔨 Recent Pull Requests
 
-- [fix hugo.yml](https://github.com/techtracker5/techtracker5.github.io/pull/1) on [techtracker5/techtracker5.github.io](https://github.com/techtracker5/techtracker5.github.io)
 - [Copy code button](https://github.com/halogenica/beautifulhugo/pull/499) on [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
 - [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/475) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
+- [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/448) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 
 ### 📰 Recent Post
 
