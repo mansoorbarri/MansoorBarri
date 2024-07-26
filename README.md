@@ -20,8 +20,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/techtracker](https://github.com/mansoorbarri/techtracker) - 
-- [mansoorbarri/techtracker5.github.io](https://github.com/mansoorbarri/techtracker5.github.io) - &lt; Technology Simplified &gt;
+- [mansoorbarri/scripts](https://github.com/mansoorbarri/scripts) - 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
