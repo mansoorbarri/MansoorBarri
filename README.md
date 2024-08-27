@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [Create a Single File For Hugo Redirects](https://mansoorbarri.com/single-file-hugo-redirect/)
 - [Reset BIOS Adminstration Password](https://mansoorbarri.com/bios-password/)
 - [How Internet Firewalls Work?](https://mansoorbarri.com/internet-firewall-pk/)
-- [What we can learn from the polyfill.js attack](https://mansoorbarri.com/polyfill-js/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
