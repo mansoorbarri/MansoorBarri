@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [maheenwaris/Website](https://github.com/maheenwaris/Website) - My Personal Hugo site
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/scripts](https://github.com/mansoorbarri/scripts) - 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [update: SEO](https://github.com/maheenwaris/Website/pull/8) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [Copy code button](https://github.com/halogenica/beautifulhugo/pull/499) on [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
 - [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/475) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/448) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 
 ### 📰 Recent Post
 
