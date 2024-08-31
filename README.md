@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1) - life
 - [maheenwaris/Website](https://github.com/maheenwaris/Website) - My Personal Hugo site
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
+- [remove dates from index and list.html](https://github.com/kkkaamis/hugotest1/pull/1) on [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1)
 - [update: SEO](https://github.com/maheenwaris/Website/pull/8) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [Copy code button](https://github.com/halogenica/beautifulhugo/pull/499) on [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
-- [add theme davlux](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/475) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 
 ### 📰 Recent Post
 
