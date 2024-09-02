@@ -20,8 +20,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/test-platen](https://github.com/mansoorbarri/test-platen) - 
 - [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1) - life
+- [mansoorbarri/test-platen](https://github.com/mansoorbarri/test-platen) - 
 
 ### 🔨 Recent Pull Requests
 
