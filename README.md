@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
+- [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1) - life
 - [mansoorbarri/test-platen](https://github.com/mansoorbarri/test-platen) - 
 
 ### 🔨 Recent Pull Requests
