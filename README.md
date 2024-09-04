@@ -21,7 +21,7 @@
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
-- [mansoorbarri/test-platen](https://github.com/mansoorbarri/test-platen) - 
+- [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1) - life
 
 ### 🔨 Recent Pull Requests
 
