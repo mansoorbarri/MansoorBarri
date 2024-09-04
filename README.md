@@ -25,7 +25,6 @@
 
 ### 🔨 Recent Pull Requests
 
-- [remove dates from index and list.html](https://github.com/kkkaamis/hugotest1/pull/1) on [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1)
 
 ### 📰 Recent Post
 
