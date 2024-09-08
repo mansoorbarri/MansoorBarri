@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/hugoplate-test](https://github.com/mansoorbarri/hugoplate-test) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
-- [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1) - life
 
 ### 🔨 Recent Pull Requests
 
