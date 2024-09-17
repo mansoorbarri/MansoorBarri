@@ -19,18 +19,18 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
-- [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1) - life
 
 ### 🔨 Recent Pull Requests
 
 
 ### 📰 Recent Post
 
+- [using linux on a thinkpad](https://mansoorbarri.com/linux-thinkpad/)
 - [Create a Single File For Hugo Redirects](https://mansoorbarri.com/single-file-hugo-redirect/)
 - [Reset BIOS Adminstration Password](https://mansoorbarri.com/bios-password/)
-- [How Internet Firewalls Work?](https://mansoorbarri.com/internet-firewall-pk/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
