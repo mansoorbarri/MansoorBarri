@@ -19,12 +19,15 @@
 
 ### 👷 Currently working on: 
 
+- [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi) - Sehat Sathi is a comprehensive clinic management system designed specifically for small healthcare providers.
 - [mansoorbarri/unit4](https://github.com/mansoorbarri/unit4) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [remove vercel.json](https://github.com/heptonuk/SehatSaathi/pull/10) on [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi)
+- [idek tbh](https://github.com/heptonuk/SehatSaathi/pull/9) on [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi)
+- [FUCK VERCEL &lt;3 ](https://github.com/heptonuk/SehatSaathi/pull/8) on [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi)
 
 ### 📰 Recent Post
 
