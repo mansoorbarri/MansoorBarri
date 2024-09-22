@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
-- [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi) - Sehat Sathi is a comprehensive clinic management system designed specifically for small healthcare providers.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/unit4](https://github.com/mansoorbarri/unit4) - 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
-- [remove vercel.json](https://github.com/heptonuk/SehatSaathi/pull/10) on [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi)
-- [idek tbh](https://github.com/heptonuk/SehatSaathi/pull/9) on [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi)
-- [FUCK VERCEL &lt;3 ](https://github.com/heptonuk/SehatSaathi/pull/8) on [heptonuk/SehatSaathi](https://github.com/heptonuk/SehatSaathi)
+- [remove dates from index and list.html](https://github.com/kkkaamis/hugotest1/pull/1) on [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1)
+- [update: SEO](https://github.com/maheenwaris/Website/pull/8) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
+- [Copy code button](https://github.com/halogenica/beautifulhugo/pull/499) on [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
 
 ### 📰 Recent Post
 
