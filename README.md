@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/davlux](https://github.com/mansoorbarri/davlux) - Minimal theme for Hugo, built with Tailwind.
 - [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [add search feature](https://github.com/mansoorbarri/davlux/pull/1) on [mansoorbarri/davlux](https://github.com/mansoorbarri/davlux)
 - [remove dates from index and list.html](https://github.com/kkkaamis/hugotest1/pull/1) on [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1)
 - [update: SEO](https://github.com/maheenwaris/Website/pull/8) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
-- [Copy code button](https://github.com/halogenica/beautifulhugo/pull/499) on [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
 
 ### 📰 Recent Post
 
