@@ -20,8 +20,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/davlux](https://github.com/mansoorbarri/davlux) - Minimal theme for Hugo, built with Tailwind.
-- [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 
 ### 🔨 Recent Pull Requests
 
