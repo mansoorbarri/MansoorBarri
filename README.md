@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [maheenwaris/Website](https://github.com/maheenwaris/Website) - My Personal Hugo site
 - [mansoorbarri/davlux](https://github.com/mansoorbarri/davlux) - Minimal theme for Hugo, built with Tailwind.
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
