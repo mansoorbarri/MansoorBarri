@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
+- [maheenwaris/Website](https://github.com/maheenwaris/Website) - My Personal Hugo site
 - [mansoorbarri/davlux](https://github.com/mansoorbarri/davlux) - Minimal theme for Hugo, built with Tailwind.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 
 ### 🔨 Recent Pull Requests
 
-- [add search feature](https://github.com/mansoorbarri/davlux/pull/1) on [mansoorbarri/davlux](https://github.com/mansoorbarri/davlux)
-- [remove dates from index and list.html](https://github.com/kkkaamis/hugotest1/pull/1) on [kkkaamis/hugotest1](https://github.com/kkkaamis/hugotest1)
-- [update: SEO](https://github.com/maheenwaris/Website/pull/8) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
+- [Remove categories](https://github.com/maheenwaris/Website/pull/15) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
+- [fix: index page showing /tags instead &#39;main&#39;](https://github.com/maheenwaris/Website/pull/14) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
+- [remove: categories](https://github.com/maheenwaris/Website/pull/13) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 
 ### 📰 Recent Post
 
