@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 - [maheenwaris/Website](https://github.com/maheenwaris/Website) - My Personal Hugo site
 
 ### 🔨 Recent Pull Requests
