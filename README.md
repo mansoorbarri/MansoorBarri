@@ -27,7 +27,6 @@
 
 - [Remove categories](https://github.com/maheenwaris/Website/pull/15) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 - [fix: index page showing /tags instead &#39;main&#39;](https://github.com/maheenwaris/Website/pull/14) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
-- [remove: categories](https://github.com/maheenwaris/Website/pull/13) on [maheenwaris/Website](https://github.com/maheenwaris/Website)
 
 ### 📰 Recent Post
 
