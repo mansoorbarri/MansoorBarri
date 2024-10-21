@@ -30,9 +30,9 @@
 
 ### 📰 Recent Post
 
+- [Why We Need Manifest V3?](https://mansoorbarri.com/why-we-need-manifest-v3/)
 - [Using Linux on ThinkPads](https://mansoorbarri.com/linux-thinkpad/)
 - [Create a Single File For Hugo Redirects](https://mansoorbarri.com/single-file-hugo-redirect/)
-- [Reset BIOS Adminstration Password](https://mansoorbarri.com/bios-password/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
