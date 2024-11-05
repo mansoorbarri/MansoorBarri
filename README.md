@@ -19,18 +19,18 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
 
 ### 📰 Recent Post
 
+- [The State of Browsers in 2024](https://mansoorbarri.com/browsers-in-2024/)
 - [Why We Need Manifest V3?](https://mansoorbarri.com/why-we-need-manifest-v3/)
 - [Using Linux on ThinkPads](https://mansoorbarri.com/linux-thinkpad/)
-- [Create a Single File For Hugo Redirects](https://mansoorbarri.com/single-file-hugo-redirect/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
