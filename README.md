@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/pdfthing](https://github.com/mansoorbarri/pdfthing) - PDF utility done right
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
 
 ### 🔨 Recent Pull Requests
