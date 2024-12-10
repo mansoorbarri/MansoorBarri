@@ -19,17 +19,18 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/tournamentApp](https://github.com/mansoorbarri/tournamentApp) - 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [website overhaul &#39;24 &gt; &#39;25](https://github.com/mansoorbarri/website/pull/24) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 
 ### 📰 Recent Post
 
 - [pdfthing - A Product of Frustration](https://mansoorbarri.com/pdfthing-product-of-frustration/)
-- [Why I Left Startup The Journey](https://mansoorbarri.com/why-i-left-startup-journey/)
+- [Why I Left The Startup Journey](https://mansoorbarri.com/why-i-left-startup-journey/)
 - [The State of Browsers in 2024](https://mansoorbarri.com/browsers-in-2024/)
 
 ### 📫 Reach me:
