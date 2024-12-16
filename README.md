@@ -19,9 +19,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/pdfthing](https://github.com/mansoorbarri/pdfthing) - PDF utility done right
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
@@ -29,9 +29,9 @@
 
 ### 📰 Recent Post
 
+- [Dynamic OpenGraph Images on Hugo](https://mansoorbarri.com/dynamic-og-image-hugo/)
 - [pdfthing - A Product of Frustration](https://mansoorbarri.com/pdfthing-product-of-frustration/)
 - [Why I Left The Startup Journey](https://mansoorbarri.com/why-i-left-startup-journey/)
-- [The State of Browsers in 2024](https://mansoorbarri.com/browsers-in-2024/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
