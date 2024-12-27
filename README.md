@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/pdfthing](https://github.com/mansoorbarri/pdfthing) - PDF utility done right
 
 ### 🔨 Recent Pull Requests
@@ -30,9 +30,9 @@
 
 ### 📰 Recent Post
 
+- [Building Ghostty on Debian: A Revolutionary Terminal Emulator](https://mansoorbarri.com/ghostty-is-here/)
 - [Dynamic OpenGraph Images on Hugo](https://mansoorbarri.com/dynamic-og-image-hugo/)
 - [pdfthing - A Product of Frustration](https://mansoorbarri.com/pdfthing-product-of-frustration/)
-- [Why I Left The Startup Journey](https://mansoorbarri.com/why-i-left-startup-journey/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
