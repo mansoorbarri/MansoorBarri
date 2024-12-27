@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/pdfthing](https://github.com/mansoorbarri/pdfthing) - PDF utility done right
 
 ### 🔨 Recent Pull Requests
