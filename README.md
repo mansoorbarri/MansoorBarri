@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [The One Database to Rule Them All: A POS Software Horror Story](https://mansoorbarri.com/software-horror-story/)
 - [Building Ghostty on Debian: A Revolutionary Terminal Emulator](https://mansoorbarri.com/ghostty-is-here/)
 - [Dynamic OpenGraph Images on Hugo](https://mansoorbarri.com/dynamic-og-image-hugo/)
-- [pdfthing - A Product of Frustration](https://mansoorbarri.com/pdfthing-product-of-frustration/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
