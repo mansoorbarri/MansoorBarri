@@ -19,8 +19,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 
 ### 🔨 Recent Pull Requests
@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [2024 Review](https://mansoorbarri.com/2024-review/)
 - [The One Database to Rule Them All: A POS Software Horror Story](https://mansoorbarri.com/software-horror-story/)
 - [Building Ghostty on Debian: A Revolutionary Terminal Emulator](https://mansoorbarri.com/ghostty-is-here/)
-- [Dynamic OpenGraph Images on Hugo](https://mansoorbarri.com/dynamic-og-image-hugo/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
