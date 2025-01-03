@@ -25,9 +25,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [add a avatar on the home page](https://github.com/lordmathis/hugo-theme-nightfall/pull/45) on [lordmathis/hugo-theme-nightfall](https://github.com/lordmathis/hugo-theme-nightfall)
 - [add toc ](https://github.com/athul/archie/pull/126) on [athul/archie](https://github.com/athul/archie)
 - [Update README.md](https://github.com/mansoorbarri/pdfthing/pull/1) on [mansoorbarri/pdfthing](https://github.com/mansoorbarri/pdfthing)
-- [add: copy-code button](https://github.com/mansoorbarri/website/pull/25) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 
 ### 📰 Recent Post
 
