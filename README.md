@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [How to Set Battery Thresholds on Linux](https://mansoorbarri.com/set-battery-tresholds/)
 - [Start tmux with Ghostty](https://mansoorbarri.com/tmux-ghostty-startup/)
 - [2024 Review](https://mansoorbarri.com/2024-review/)
-- [The One Database to Rule Them All: A POS Software Horror Story](https://mansoorbarri.com/software-horror-story/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
