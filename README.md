@@ -31,9 +31,9 @@
 
 ### 📰 Recent Post
 
+- [My Ghostty Config](https://mansoorbarri.com/ghostty-config/)
 - [How to Set Battery Thresholds on Linux](https://mansoorbarri.com/set-battery-tresholds/)
 - [Start tmux with Ghostty](https://mansoorbarri.com/tmux-ghostty-startup/)
-- [2024 Review](https://mansoorbarri.com/2024-review/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
