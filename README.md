@@ -25,9 +25,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [add theme mainroad-v2](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/513) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [Origin&gt;v2](https://github.com/mansoorbarri/mainroad-v2/pull/1) on [mansoorbarri/mainroad-v2](https://github.com/mansoorbarri/mainroad-v2)
 - [Origin&gt;v2](https://github.com/Vimux/Mainroad/pull/389) on [Vimux/Mainroad](https://github.com/Vimux/Mainroad)
-- [add a avatar on the home page](https://github.com/lordmathis/hugo-theme-nightfall/pull/45) on [lordmathis/hugo-theme-nightfall](https://github.com/lordmathis/hugo-theme-nightfall)
 
 ### 📰 Recent Post
 
