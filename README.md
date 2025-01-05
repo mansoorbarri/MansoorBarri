@@ -1,6 +1,6 @@
 <div align=center>
   
-## [Mansoor Barri](https://mansoorbarri.com/)
+<img width="100" src="https://mansoorbarri.com/img/logo/logo.svg">
 
 ### 🧰 Languages and Tools
 
@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) - A minimal links page made with Hugo 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) - A minimal links page made with Hugo 
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [css &gt; alphabetical-css](https://github.com/mansoorbarri/glim-midnight/pull/9) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
+- [Fix examplesite](https://github.com/mansoorbarri/glim-midnight/pull/8) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 - [add option the bg to be an image](https://github.com/mansoorbarri/glim-midnight/pull/6) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
-- [option for new tab](https://github.com/mansoorbarri/glim-midnight/pull/5) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
-- [add footer](https://github.com/mansoorbarri/glim-midnight/pull/4) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 
 ### 📰 Recent Post
 
@@ -38,6 +38,5 @@
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
 - Twitter   : <https://twitter.com/mansoorbarri/>
-- Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
-
+- Bluesky:  : <https://bsky.app/profile/mansoorbarri.com>
 ---
