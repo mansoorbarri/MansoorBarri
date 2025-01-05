@@ -1,6 +1,6 @@
 <div align=center>
   
-## [Mansoor Barri](https://mansoorbarri.com/)
+<img width="100" src="https://mansoorbarri.com/img/logo/logo.svg">
 
 ### 🧰 Languages and Tools
 
@@ -35,6 +35,5 @@
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
 - Twitter   : <https://twitter.com/mansoorbarri/>
-- Email     : [info@mansoorbarri.com](mailto:info@mansoorbarri.com)
-
+- Bluesky:  : <https://bsky.app/profile/mansoorbarri.com>
 ---
