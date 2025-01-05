@@ -25,9 +25,9 @@
 
 ### 🔨 Recent Pull Requests
 
-- [update theme](https://github.com/mansoorbarri/glim-midnight/pull/2) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
-- [add theme mainroad-v2](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/513) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
-- [Origin&gt;v2](https://github.com/mansoorbarri/mainroad-v2/pull/1) on [mansoorbarri/mainroad-v2](https://github.com/mansoorbarri/mainroad-v2)
+- [add option the bg to be an image](https://github.com/mansoorbarri/glim-midnight/pull/6) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
+- [option for new tab](https://github.com/mansoorbarri/glim-midnight/pull/5) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
+- [add footer](https://github.com/mansoorbarri/glim-midnight/pull/4) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 
 ### 📰 Recent Post
 
