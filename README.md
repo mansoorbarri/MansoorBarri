@@ -3,6 +3,8 @@
 <img width="100" src="https://mansoorbarri.com/img/logo/logo.svg">
 </div>
 
+---
+
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
