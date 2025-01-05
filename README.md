@@ -19,15 +19,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) - A minimal links page made with Hugo 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [lordmathis/hugo-theme-nightfall](https://github.com/lordmathis/hugo-theme-nightfall) - Minimal dark theme for Hugo
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [update theme](https://github.com/mansoorbarri/glim-midnight/pull/2) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 - [add theme mainroad-v2](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/513) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)
 - [Origin&gt;v2](https://github.com/mansoorbarri/mainroad-v2/pull/1) on [mansoorbarri/mainroad-v2](https://github.com/mansoorbarri/mainroad-v2)
-- [Origin&gt;v2](https://github.com/Vimux/Mainroad/pull/389) on [Vimux/Mainroad](https://github.com/Vimux/Mainroad)
 
 ### 📰 Recent Post
 
