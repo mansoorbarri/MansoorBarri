@@ -3,6 +3,8 @@
 <img width="100" src="https://mansoorbarri.com/img/logo/logo.svg">
 </div>
 
+---
+
 ### 👷 Currently working on: 
 {{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
