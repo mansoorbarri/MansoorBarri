@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight) - A minimal links page made with Hugo 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
