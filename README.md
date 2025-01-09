@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [modularise head.html](https://github.com/mansoorbarri/roadster/pull/43) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
 - [Fix deprecated features](https://github.com/mansoorbarri/roadster/pull/8) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
 - [css &gt; alphabetical-css](https://github.com/mansoorbarri/glim-midnight/pull/9) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
-- [Fix examplesite](https://github.com/mansoorbarri/glim-midnight/pull/8) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 
 ### 📰 Recent Post
 
