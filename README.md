@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [update screenshots | issue 33](https://github.com/lordmathis/hugo-theme-nightfall/pull/48) on [lordmathis/hugo-theme-nightfall](https://github.com/lordmathis/hugo-theme-nightfall)
 - [add multiauthor feature](https://github.com/mansoorbarri/roadster/pull/46) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
 - [modularise head.html](https://github.com/mansoorbarri/roadster/pull/43) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
-- [Fix deprecated features](https://github.com/mansoorbarri/roadster/pull/8) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
 
 ### 📰 Recent Post
 
