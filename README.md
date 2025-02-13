@@ -15,7 +15,6 @@
 
 - [update CONTRIBUTING.md](https://github.com/mansoorbarri/roadster/pull/70) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
 - [update screenshots | issue 33](https://github.com/lordmathis/hugo-theme-nightfall/pull/48) on [lordmathis/hugo-theme-nightfall](https://github.com/lordmathis/hugo-theme-nightfall)
-- [add multiauthor feature](https://github.com/mansoorbarri/roadster/pull/46) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
 
 ### 📰 Recent Post
 
