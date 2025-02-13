@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 - [mansoorbarri/drive](https://github.com/mansoorbarri/drive) - 
 
 ### 🔨 Recent Pull Requests
