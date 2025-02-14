@@ -14,7 +14,6 @@
 ### 🔨 Recent Pull Requests
 
 - [update CONTRIBUTING.md](https://github.com/mansoorbarri/roadster/pull/70) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
-- [update screenshots | issue 33](https://github.com/lordmathis/hugo-theme-nightfall/pull/48) on [lordmathis/hugo-theme-nightfall](https://github.com/lordmathis/hugo-theme-nightfall)
 
 ### 📰 Recent Post
 
