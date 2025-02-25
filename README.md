@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/drive](https://github.com/mansoorbarri/drive) - 
 
 ### 🔨 Recent Pull Requests
 
@@ -17,9 +17,9 @@
 
 ### 📰 Recent Post
 
+- [The Vim Journey](https://mansoorbarri.com/the-vim-journey/)
 - [My Ghostty Config](https://mansoorbarri.com/ghostty-config/)
 - [How to Set Battery Thresholds on Linux](https://mansoorbarri.com/set-battery-tresholds/)
-- [Start tmux with Ghostty](https://mansoorbarri.com/tmux-ghostty-startup/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
