@@ -17,9 +17,9 @@
 
 ### 📰 Recent Post
 
+- [Tmux &amp; Ghostty](https://mansoorbarri.com/tmux-ghostty/)
 - [The Vim Journey](https://mansoorbarri.com/the-vim-journey/)
 - [My Ghostty Config](https://mansoorbarri.com/ghostty-config/)
-- [How to Set Battery Thresholds on Linux](https://mansoorbarri.com/set-battery-tresholds/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
