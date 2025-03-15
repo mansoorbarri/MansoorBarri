@@ -17,9 +17,9 @@
 
 ### 📰 Recent Post
 
+- [Loving Firefox Isn&#39;t That Hard](https://mansoorbarri.com/zen-browser/)
 - [Tmux &amp; Ghostty](https://mansoorbarri.com/tmux-ghostty/)
 - [The Vim Journey](https://mansoorbarri.com/the-vim-journey/)
-- [My Ghostty Config](https://mansoorbarri.com/ghostty-config/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
