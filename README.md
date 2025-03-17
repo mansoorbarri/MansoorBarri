@@ -17,7 +17,7 @@
 
 ### 📰 Recent Post
 
-- [Move to Arch](https://mansoorbarri.com/move-to-arch/)
+- [Transitioning from Debian to Arch Linux](https://mansoorbarri.com/move-to-arch/)
 - [Loving Firefox Isn&#39;t That Hard](https://mansoorbarri.com/zen-browser/)
 - [Tmux &amp; Ghostty](https://mansoorbarri.com/tmux-ghostty/)
 
