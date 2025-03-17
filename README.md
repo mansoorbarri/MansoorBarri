@@ -17,9 +17,9 @@
 
 ### 📰 Recent Post
 
+- [Move to Arch](https://mansoorbarri.com/move-to-arch/)
 - [Loving Firefox Isn&#39;t That Hard](https://mansoorbarri.com/zen-browser/)
 - [Tmux &amp; Ghostty](https://mansoorbarri.com/tmux-ghostty/)
-- [The Vim Journey](https://mansoorbarri.com/the-vim-journey/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
