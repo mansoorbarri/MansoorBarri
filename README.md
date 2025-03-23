@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/roadster-example](https://github.com/mansoorbarri/roadster-example) - 
 
 ### 🔨 Recent Pull Requests
