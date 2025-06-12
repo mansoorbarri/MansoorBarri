@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts) - 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
+- [Move to workers](https://github.com/mansoorbarri/website/pull/34) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [add pfp processor handler ](https://github.com/TheManhwaProject/manhco_backend/pull/4) on [TheManhwaProject/manhco_backend](https://github.com/TheManhwaProject/manhco_backend)
 - [add helmet.js config](https://github.com/TheManhwaProject/manhco_backend/pull/3) on [TheManhwaProject/manhco_backend](https://github.com/TheManhwaProject/manhco_backend)
-- [new ui](https://github.com/mansoorbarri/drive-tutorial/pull/1) on [mansoorbarri/drive-tutorial](https://github.com/mansoorbarri/drive-tutorial)
 
 ### 📰 Recent Post
 
