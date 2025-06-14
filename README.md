@@ -19,9 +19,9 @@
 
 ### 📰 Recent Post
 
+- [Migrate Hugo Website from Cloudflare Pages to Worker](https://mansoorbarri.com/pages-to-workers-cf/)
 - [Arc Browser, The Browser Company and Browsers](https://mansoorbarri.com/arc-browsercompany-browsers/)
 - [Transitioning from Debian to Arch Linux](https://mansoorbarri.com/move-to-arch/)
-- [Loving Firefox Isn&#39;t That Hard](https://mansoorbarri.com/zen-browser/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
