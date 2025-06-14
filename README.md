@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts) - 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/coming-soon](https://github.com/mansoorbarri/coming-soon) - A simple hugo theme for your website pre-public look
 
 ### 🔨 Recent Pull Requests
 
+- [V2](https://github.com/mansoorbarri/glim-midnight/pull/11) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
+- [update layout to new templates &#43; shift to CFW](https://github.com/mansoorbarri/glim-midnight/pull/10) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 - [update layouts to new template system](https://github.com/mansoorbarri/roadster/pull/88) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
-- [Migrate pages to worker](https://github.com/mansoorbarri/roadster/pull/87) on [mansoorbarri/roadster](https://github.com/mansoorbarri/roadster)
-- [Migrate pages to worker](https://github.com/Vimux/Mainroad/pull/395) on [Vimux/Mainroad](https://github.com/Vimux/Mainroad)
 
 ### 📰 Recent Post
 
