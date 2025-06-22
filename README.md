@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts) - 
 - [mansoorbarri/tldr.sh](https://github.com/mansoorbarri/tldr.sh) - A clone of tldr.sh for hugo
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
