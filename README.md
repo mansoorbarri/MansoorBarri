@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo) - A hugo theme inspired by brittanychiang.com
-- [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Fix chart links](https://github.com/mansoorbarri/geofs-charts/pull/1) on [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts)
 - [Fix css selectors](https://github.com/mansoorbarri/brit-hugo/pull/3) on [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo)
 - [update partial/ and config.toml to new template](https://github.com/mansoorbarri/brit-hugo/pull/2) on [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo)
-- [V2](https://github.com/mansoorbarri/glim-midnight/pull/11) on [mansoorbarri/glim-midnight](https://github.com/mansoorbarri/glim-midnight)
 
 ### 📰 Recent Post
 
