@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/ebay-analytics](https://github.com/mansoorbarri/ebay-analytics) - 
 - [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo) - A hugo theme inspired by brittanychiang.com
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
