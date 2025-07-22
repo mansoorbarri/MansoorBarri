@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/bridget-test-sandbox](https://github.com/mansoorbarri/bridget-test-sandbox) - 
 - [mansoorbarri/ebay-analytics](https://github.com/mansoorbarri/ebay-analytics) - 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
