@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/bridget-test-sandbox](https://github.com/mansoorbarri/bridget-test-sandbox) - 
 - [mansoorbarri/ebay-analytics](https://github.com/mansoorbarri/ebay-analytics) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo) - A hugo theme inspired by brittanychiang.com
 
 ### 🔨 Recent Pull Requests
 
