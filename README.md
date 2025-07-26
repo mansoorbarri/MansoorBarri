@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/ebay-analytics](https://github.com/mansoorbarri/ebay-analytics) - 
 
 ### 🔨 Recent Pull Requests
