@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
 - [mansoorbarri/ebay-analytics](https://github.com/mansoorbarri/ebay-analytics) - 
-- [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo) - A hugo theme inspired by brittanychiang.com
 
 ### 🔨 Recent Pull Requests
 
