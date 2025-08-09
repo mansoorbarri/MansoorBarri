@@ -15,7 +15,6 @@
 
 - [Fix cfw builds](https://github.com/mansoorbarri/brit-hugo/pull/5) on [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo)
 - [merge branch again? ](https://github.com/mansoorbarri/brit-hugo/pull/4) on [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo)
-- [Fix chart links](https://github.com/mansoorbarri/geofs-charts/pull/1) on [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts)
 
 ### 📰 Recent Post
 
