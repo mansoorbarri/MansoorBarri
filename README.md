@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 
 ### 🔨 Recent Pull Requests
