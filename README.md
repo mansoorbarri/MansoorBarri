@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
+- [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
 
 ### 🔨 Recent Pull Requests
 
