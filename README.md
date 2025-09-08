@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
-- [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
 
 ### 🔨 Recent Pull Requests
 
