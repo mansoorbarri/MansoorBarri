@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
-- [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
 
 ### 🔨 Recent Pull Requests
 
