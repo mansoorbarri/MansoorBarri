@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 - [mansoorbarri/nextjs-practice-pantry](https://github.com/mansoorbarri/nextjs-practice-pantry) - 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
@@ -18,9 +18,9 @@
 
 ### 📰 Recent Post
 
+- [I Built a Website and It Got Hacked.](https://mansoorbarri.com/i-got-hacked/)
 - [Migrate Hugo Website from Cloudflare Pages to Worker](https://mansoorbarri.com/pages-to-workers-cf/)
 - [Arc Browser, The Browser Company and Browsers](https://mansoorbarri.com/arc-browsercompany-browsers/)
-- [Transitioning from Debian to Arch Linux](https://mansoorbarri.com/move-to-arch/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
