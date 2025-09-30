@@ -7,7 +7,7 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/pdfthing](https://github.com/mansoorbarri/pdfthing) - PDF utility done right
+- [mansoorbarri/docthing](https://github.com/mansoorbarri/docthing) - 
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/howzat](https://github.com/mansoorbarri/howzat) - 
 
