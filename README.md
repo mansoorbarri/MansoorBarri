@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/docthing](https://github.com/mansoorbarri/docthing) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
@@ -18,9 +18,9 @@
 
 ### 📰 Recent Post
 
+- [Migrate your NextJS app from Vercel to Cloudflare](https://mansoorbarri.com/migrating-from-vercel/)
 - [I Built a Website and It Got Hacked.](https://mansoorbarri.com/i-got-hacked/)
 - [Migrate Hugo Website from Cloudflare Pages to Worker](https://mansoorbarri.com/pages-to-workers-cf/)
-- [Arc Browser, The Browser Company and Browsers](https://mansoorbarri.com/arc-browsercompany-browsers/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
