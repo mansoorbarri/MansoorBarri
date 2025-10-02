@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 - [mansoorbarri/docthing](https://github.com/mansoorbarri/docthing) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 
 ### 🔨 Recent Pull Requests
 
