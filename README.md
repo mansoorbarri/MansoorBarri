@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/arch-install](https://github.com/mansoorbarri/arch-install) - 
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
-- [mansoorbarri/docthing](https://github.com/mansoorbarri/docthing) - 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 
 ### 🔨 Recent Pull Requests
 
