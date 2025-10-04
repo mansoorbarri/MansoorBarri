@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/arch-install](https://github.com/mansoorbarri/arch-install) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
-- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 
 ### 🔨 Recent Pull Requests
 
