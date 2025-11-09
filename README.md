@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/geofs-charts](https://github.com/mansoorbarri/geofs-charts) - 
-- [mansoorbarri/arch-install](https://github.com/mansoorbarri/arch-install) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/arch-install](https://github.com/mansoorbarri/arch-install) - 
 
 ### 🔨 Recent Pull Requests
 
