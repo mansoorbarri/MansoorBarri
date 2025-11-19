@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 
 ### 🔨 Recent Pull Requests
 
@@ -18,9 +18,9 @@
 
 ### 📰 Recent Post
 
+- [GeoFS-Radar: A Custom Solution for Virtual ATC](https://mansoorbarri.com/flightradar24-for-geofs/)
 - [Migrate your NextJS app from Vercel to Cloudflare](https://mansoorbarri.com/migrating-from-vercel/)
 - [I Built a Website and It Got Hacked.](https://mansoorbarri.com/i-got-hacked/)
-- [Migrate Hugo Website from Cloudflare Pages to Worker](https://mansoorbarri.com/pages-to-workers-cf/)
 
 ### 📫 Reach me:
 - Linkedin  : <https://linkedin.com/in/mansoorbarri/>
