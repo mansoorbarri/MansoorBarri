@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 - [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
 
