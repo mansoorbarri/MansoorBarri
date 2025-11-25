@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/geofs-addons](https://github.com/mansoorbarri/geofs-addons) - a central page for all the addons i&#39;ve developed for GeoFS
 - [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
+- [mansoorbarri/geofs-addons](https://github.com/mansoorbarri/geofs-addons) - a central page for all the addons i&#39;ve developed for GeoFS
 - [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 
 ### 🔨 Recent Pull Requests
