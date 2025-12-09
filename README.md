@@ -9,7 +9,7 @@
 
 - [mansoorbarri/geofs-addons](https://github.com/mansoorbarri/geofs-addons) - a central page for all the addons i&#39;ve developed for GeoFS
 - [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
-- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
