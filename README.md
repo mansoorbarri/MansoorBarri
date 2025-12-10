@@ -13,9 +13,6 @@
 
 ### 🔨 Recent Pull Requests
 
-- [fix rendering loop](https://github.com/mansoorbarri/geofs-radar/pull/2) on [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar)
-- [Refactor for modularity ](https://github.com/mansoorbarri/geofs-radar/pull/1) on [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar)
-- [Fix cfw builds](https://github.com/mansoorbarri/brit-hugo/pull/5) on [mansoorbarri/brit-hugo](https://github.com/mansoorbarri/brit-hugo)
 
 ### 📰 Recent Post
 
