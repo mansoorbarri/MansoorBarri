@@ -9,10 +9,11 @@
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
-- [mansoorbarri/geofs-addons](https://github.com/mansoorbarri/geofs-addons) - a central page for all the addons i&#39;ve developed for GeoFS
+- [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar) - Just like the FR24 in real world
 
 ### 🔨 Recent Pull Requests
 
+- [adds favicon](https://github.com/seabus0316/GeoFS-flightradar/pull/36) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
 
 ### 📰 Recent Post
 
