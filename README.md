@@ -7,7 +7,7 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 - [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 - [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar) - Just like the FR24 in real world
 
