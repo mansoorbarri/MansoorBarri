@@ -14,6 +14,8 @@
 ### 🔨 Recent Pull Requests
 
 - [adds favicon](https://github.com/seabus0316/GeoFS-flightradar/pull/36) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
+- [add eastereggs](https://github.com/mansoorbarri/geofs-radar/pull/3) on [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar)
+- [fix rendering loop](https://github.com/mansoorbarri/geofs-radar/pull/2) on [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar)
 
 ### 📰 Recent Post
 
