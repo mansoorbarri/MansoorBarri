@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
-- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 
 ### 🔨 Recent Pull Requests
 
