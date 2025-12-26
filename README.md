@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
+- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
+- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 
 ### 🔨 Recent Pull Requests
 
