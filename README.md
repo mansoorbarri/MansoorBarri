@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
-- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/geofs-radar](https://github.com/mansoorbarri/geofs-radar) - 
 
 ### 🔨 Recent Pull Requests
 
