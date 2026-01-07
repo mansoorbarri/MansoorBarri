@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
+- [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar) - Just like the FR24 in real world
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Data exchange](https://github.com/mansoorbarri/RadarThing/pull/6) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Data Exchange W/ RadarThing](https://github.com/seabus0316/GeoFS-flightradar/pull/39) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
 - [adds favicon](https://github.com/seabus0316/GeoFS-flightradar/pull/36) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
-- [add eastereggs](https://github.com/mansoorbarri/RadarThing/pull/3) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [fix rendering loop](https://github.com/mansoorbarri/RadarThing/pull/2) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
