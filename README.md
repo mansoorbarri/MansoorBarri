@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar) - Just like the FR24 in real world
-- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 
 ### 🔨 Recent Pull Requests
 
