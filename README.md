@@ -9,13 +9,13 @@
 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
+- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 
 ### 🔨 Recent Pull Requests
 
+- [migrate to convex](https://github.com/mansoorbarri/geofs-vstrips/pull/2) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 - [Data exchange](https://github.com/mansoorbarri/RadarThing/pull/6) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Data Exchange W/ RadarThing](https://github.com/seabus0316/GeoFS-flightradar/pull/39) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
-- [adds favicon](https://github.com/seabus0316/GeoFS-flightradar/pull/36) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
 
 ### 📰 Recent Post
 
