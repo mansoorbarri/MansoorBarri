@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [feat: add PostHog analytics tracking](https://github.com/mansoorbarri/RadarThing/pull/7) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [migrate to convex](https://github.com/mansoorbarri/geofs-vstrips/pull/2) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 - [Data exchange](https://github.com/mansoorbarri/RadarThing/pull/6) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Data Exchange W/ RadarThing](https://github.com/seabus0316/GeoFS-flightradar/pull/39) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
 
 ### 📰 Recent Post
 
