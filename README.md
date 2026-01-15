@@ -9,7 +9,7 @@
 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
+- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
 
 ### 🔨 Recent Pull Requests
 
