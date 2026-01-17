@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [feat: add ADMIN role for image approval management](https://github.com/mansoorbarri/RadarThing/pull/9) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [update SSE URL](https://github.com/seabus0316/GeoFS-flightradar/pull/43) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
 - [Migrate database from Prisma/PostgreSQL to Convex](https://github.com/mansoorbarri/RadarThing/pull/8) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [feat: add PostHog analytics tracking](https://github.com/mansoorbarri/RadarThing/pull/7) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
