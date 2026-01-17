@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
+- [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar) - Just like the FR24 in real world
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/PythonScripts](https://github.com/mansoorbarri/PythonScripts) - 
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 
 ### 🔨 Recent Pull Requests
 
+- [update SSE URL](https://github.com/seabus0316/GeoFS-flightradar/pull/43) on [seabus0316/GeoFS-flightradar](https://github.com/seabus0316/GeoFS-flightradar)
 - [Migrate database from Prisma/PostgreSQL to Convex](https://github.com/mansoorbarri/RadarThing/pull/8) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [feat: add PostHog analytics tracking](https://github.com/mansoorbarri/RadarThing/pull/7) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [migrate to convex](https://github.com/mansoorbarri/geofs-vstrips/pull/2) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 
 ### 📰 Recent Post
 
