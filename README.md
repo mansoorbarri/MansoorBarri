@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Migrate database from Prisma/PostgreSQL to Convex](https://github.com/mansoorbarri/RadarThing/pull/8) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [feat: add PostHog analytics tracking](https://github.com/mansoorbarri/RadarThing/pull/7) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [migrate to convex](https://github.com/mansoorbarri/geofs-vstrips/pull/2) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
-- [Data exchange](https://github.com/mansoorbarri/RadarThing/pull/6) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
