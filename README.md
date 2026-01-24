@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 - [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 
 ### 🔨 Recent Pull Requests
