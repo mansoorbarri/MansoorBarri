@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/DriveThing](https://github.com/mansoorbarri/DriveThing) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 
 ### 🔨 Recent Pull Requests
