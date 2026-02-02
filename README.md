@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 
 ### 🔨 Recent Pull Requests
 
+- [Feature/airport charts expansion](https://github.com/mansoorbarri/RadarThing/pull/11) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [feat: improve real-time Convex query tracking and type safety](https://github.com/mansoorbarri/geofs-vstrips/pull/3) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 - [style: add cursor-pointer to all clickable elements](https://github.com/mansoorbarri/RadarThing/pull/10) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [feat: add ADMIN role for image approval management](https://github.com/mansoorbarri/RadarThing/pull/9) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
