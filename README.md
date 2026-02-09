@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 
 ### 🔨 Recent Pull Requests
