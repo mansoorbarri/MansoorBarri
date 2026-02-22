@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
-- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/geofs-addons](https://github.com/mansoorbarri/geofs-addons) - a central page for all the addons i&#39;ve developed for GeoFS
 
 ### 🔨 Recent Pull Requests
 
