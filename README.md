@@ -7,8 +7,8 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/Bash-Scripts](https://github.com/mansoorbarri/Bash-Scripts) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/Bash-Scripts](https://github.com/mansoorbarri/Bash-Scripts) - 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 
 ### 🔨 Recent Pull Requests
