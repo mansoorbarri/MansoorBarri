@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
+- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
+- [Improve radar settings panel navigation](https://github.com/mansoorbarri/RadarThing/pull/14) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Feat/conflict log mvp](https://github.com/mansoorbarri/RadarThing/pull/13) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Update radar help links](https://github.com/aadhilmsyed/EventsBot/pull/12) on [aadhilmsyed/EventsBot](https://github.com/aadhilmsyed/EventsBot)
-- [Feature/airport charts expansion](https://github.com/mansoorbarri/RadarThing/pull/11) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [feat: improve real-time Convex query tracking and type safety](https://github.com/mansoorbarri/geofs-vstrips/pull/3) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 
 ### 📰 Recent Post
 
