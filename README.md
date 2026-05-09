@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Feat/free 10 flights history](https://github.com/mansoorbarri/RadarThing/pull/15) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Improve radar settings panel navigation](https://github.com/mansoorbarri/RadarThing/pull/14) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Feat/conflict log mvp](https://github.com/mansoorbarri/RadarThing/pull/13) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Update radar help links](https://github.com/aadhilmsyed/EventsBot/pull/12) on [aadhilmsyed/EventsBot](https://github.com/aadhilmsyed/EventsBot)
 
 ### 📰 Recent Post
 
