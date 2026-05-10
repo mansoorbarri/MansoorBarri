@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add challenge leaderboards to challenge panels and leaderboard page](https://github.com/mansoorbarri/RadarThing/pull/16) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Feat/free 10 flights history](https://github.com/mansoorbarri/RadarThing/pull/15) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Improve radar settings panel navigation](https://github.com/mansoorbarri/RadarThing/pull/14) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Feat/conflict log mvp](https://github.com/mansoorbarri/RadarThing/pull/13) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
