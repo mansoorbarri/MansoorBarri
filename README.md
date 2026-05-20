@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
