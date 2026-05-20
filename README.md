@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Collapse large airport chart upload file lists](https://github.com/mansoorbarri/RadarThing/pull/19) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Remove radar history trails](https://github.com/mansoorbarri/RadarThing/pull/18) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Mobile view improvements](https://github.com/mansoorbarri/RadarThing/pull/17) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add challenge leaderboards to challenge panels and leaderboard page](https://github.com/mansoorbarri/RadarThing/pull/16) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Feat/free 10 flights history](https://github.com/mansoorbarri/RadarThing/pull/15) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
