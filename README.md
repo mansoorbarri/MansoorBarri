@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - 
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Feat/history trail](https://github.com/mansoorbarri/RadarThing/pull/21) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Persist mobile map renderer selection](https://github.com/mansoorbarri/RadarThing/pull/20) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Collapse large airport chart upload file lists](https://github.com/mansoorbarri/RadarThing/pull/19) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Remove radar history trails](https://github.com/mansoorbarri/RadarThing/pull/18) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Mobile view improvements](https://github.com/mansoorbarri/RadarThing/pull/17) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
