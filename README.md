@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add airport URL param support](https://github.com/mansoorbarri/RadarThing/pull/24) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [feat: dedicated sidebar for settings](https://github.com/mansoorbarri/RadarThing/pull/23) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [testing init](https://github.com/mansoorbarri/RadarThing/pull/22) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Feat/history trail](https://github.com/mansoorbarri/RadarThing/pull/21) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
