@@ -7,12 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
-- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 
 ### 🔨 Recent Pull Requests
 
+- [Add airport URL param support](https://github.com/mansoorbarri/RadarThing/pull/24) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [feat: dedicated sidebar for settings](https://github.com/mansoorbarri/RadarThing/pull/23) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [testing init](https://github.com/mansoorbarri/RadarThing/pull/22) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
