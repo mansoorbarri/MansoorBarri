@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/gamesrus](https://github.com/mansoorbarri/gamesrus) - A game-night dashboard with leaderboard!
 
 ### 🔨 Recent Pull Requests
 
+- [Add URL-backed leaderboard tabs](https://github.com/mansoorbarri/RadarThing/pull/25) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add airport URL param support](https://github.com/mansoorbarri/RadarThing/pull/24) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [feat: dedicated sidebar for settings](https://github.com/mansoorbarri/RadarThing/pull/23) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [testing init](https://github.com/mansoorbarri/RadarThing/pull/22) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
