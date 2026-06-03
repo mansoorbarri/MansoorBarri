@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add admin activity telemetry](https://github.com/mansoorbarri/RadarThing/pull/27) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Support multi-rule challenges](https://github.com/mansoorbarri/RadarThing/pull/26) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add URL-backed leaderboard tabs](https://github.com/mansoorbarri/RadarThing/pull/25) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add airport URL param support](https://github.com/mansoorbarri/RadarThing/pull/24) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
