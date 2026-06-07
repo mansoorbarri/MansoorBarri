@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Fix Convex authorization bypasses](https://github.com/mansoorbarri/RadarThing/pull/28) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add admin activity telemetry](https://github.com/mansoorbarri/RadarThing/pull/27) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Support multi-rule challenges](https://github.com/mansoorbarri/RadarThing/pull/26) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add URL-backed leaderboard tabs](https://github.com/mansoorbarri/RadarThing/pull/25) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
