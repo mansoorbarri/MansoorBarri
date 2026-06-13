@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 
 ### 🔨 Recent Pull Requests
 
+- [[codex] Replace Seabus websocket transport with HTTP](https://github.com/mansoorbarri/RadarThing/pull/31) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add RNAV waypoint overlay](https://github.com/mansoorbarri/RadarThing/pull/30) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Fix admin auth query race](https://github.com/mansoorbarri/RadarThing/pull/29) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Fix Convex authorization bypasses](https://github.com/mansoorbarri/RadarThing/pull/28) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
