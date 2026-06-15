@@ -9,13 +9,13 @@
 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/geofs-scripts](https://github.com/mansoorbarri/geofs-scripts) - 
+- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
 
 ### 🔨 Recent Pull Requests
 
+- [remove referral feature](https://github.com/mansoorbarri/RadarThing/pull/32) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [[codex] Replace Seabus websocket transport with HTTP](https://github.com/mansoorbarri/RadarThing/pull/31) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add RNAV waypoint overlay](https://github.com/mansoorbarri/RadarThing/pull/30) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Fix admin auth query race](https://github.com/mansoorbarri/RadarThing/pull/29) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
