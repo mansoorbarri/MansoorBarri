@@ -9,7 +9,7 @@
 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
+- [mansoorbarri/geofs-scripts](https://github.com/mansoorbarri/geofs-scripts) - 
 
 ### 🔨 Recent Pull Requests
 
