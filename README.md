@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [[codex] Collapse admin challenge sections](https://github.com/mansoorbarri/RadarThing/pull/34) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [[codex] manual challenge review flow](https://github.com/mansoorbarri/RadarThing/pull/33) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [remove referral feature](https://github.com/mansoorbarri/RadarThing/pull/32) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [[codex] Replace Seabus websocket transport with HTTP](https://github.com/mansoorbarri/RadarThing/pull/31) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add RNAV waypoint overlay](https://github.com/mansoorbarri/RadarThing/pull/30) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
