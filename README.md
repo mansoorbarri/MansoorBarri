@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add ADS-B Radar aircraft icons](https://github.com/mansoorbarri/RadarThing/pull/39) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add dashboard privacy blur setting](https://github.com/mansoorbarri/RadarThing/pull/38) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add system light mode for dashboard and admin](https://github.com/mansoorbarri/RadarThing/pull/37) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [show flight card speed and altitude](https://github.com/mansoorbarri/RadarThing/pull/36) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
