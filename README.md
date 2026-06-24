@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add atwi60 challenge flight suggestions](https://github.com/mansoorbarri/RadarThing/pull/35) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [[codex] Collapse admin challenge sections](https://github.com/mansoorbarri/RadarThing/pull/34) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [[codex] manual challenge review flow](https://github.com/mansoorbarri/RadarThing/pull/33) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [remove referral feature](https://github.com/mansoorbarri/RadarThing/pull/32) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
