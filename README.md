@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Guard waypoint cleanup after map removal](https://github.com/mansoorbarri/RadarThing/pull/41) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add radar runway extended centerlines](https://github.com/mansoorbarri/RadarThing/pull/40) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add ADS-B Radar aircraft icons](https://github.com/mansoorbarri/RadarThing/pull/39) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add dashboard privacy blur setting](https://github.com/mansoorbarri/RadarThing/pull/38) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
