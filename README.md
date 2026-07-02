@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
-- [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles) - 
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
-- [Remove freeform aircraft image Discord attribution](https://github.com/mansoorbarri/RadarThing/pull/43) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Filter aircraft image uploads by pending uploaders](https://github.com/mansoorbarri/RadarThing/pull/42) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Guard waypoint cleanup after map removal](https://github.com/mansoorbarri/RadarThing/pull/41) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Persist active flight sessions to Convex](https://github.com/mansoorbarri/radar-sse/pull/2) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
+- [Add durable active flight session storage](https://github.com/mansoorbarri/RadarThing/pull/44) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Persist active flight sessions to Convex](https://github.com/mansoorbarri/radar-sse/pull/1) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
 
 ### 📰 Recent Post
 
