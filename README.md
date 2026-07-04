@@ -13,8 +13,8 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Use elapsed time for completed flight durations](https://github.com/mansoorbarri/RadarThing/pull/45) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Persist active flight sessions to Convex](https://github.com/mansoorbarri/radar-sse/pull/2) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
-- [Add durable active flight session storage](https://github.com/mansoorbarri/RadarThing/pull/44) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
