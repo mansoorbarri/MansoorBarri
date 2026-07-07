@@ -13,8 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add preset rejection reasons for aircraft image moderation](https://github.com/mansoorbarri/RadarThing/pull/47) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Hide live traffic during replay](https://github.com/mansoorbarri/RadarThing/pull/46) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Use elapsed time for completed flight durations](https://github.com/mansoorbarri/RadarThing/pull/45) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Persist active flight sessions to Convex](https://github.com/mansoorbarri/radar-sse/pull/2) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
 
 ### 📰 Recent Post
 
