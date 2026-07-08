@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Remove globe radar view](https://github.com/mansoorbarri/RadarThing/pull/48) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add preset rejection reasons for aircraft image moderation](https://github.com/mansoorbarri/RadarThing/pull/47) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Hide live traffic during replay](https://github.com/mansoorbarri/RadarThing/pull/46) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Use elapsed time for completed flight durations](https://github.com/mansoorbarri/RadarThing/pull/45) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
