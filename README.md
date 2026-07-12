@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Use Convex shared secret for reminders](https://github.com/mansoorbarri/discord-pager/pull/1) on [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager)
+- [Add target airport list challenges](https://github.com/mansoorbarri/RadarThing/pull/49) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Remove globe radar view](https://github.com/mansoorbarri/RadarThing/pull/48) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add preset rejection reasons for aircraft image moderation](https://github.com/mansoorbarri/RadarThing/pull/47) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Hide live traffic during replay](https://github.com/mansoorbarri/RadarThing/pull/46) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
