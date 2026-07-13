@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
-- [Use Convex shared secret for reminders](https://github.com/mansoorbarri/discord-pager/pull/1) on [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager)
-- [Add target airport list challenges](https://github.com/mansoorbarri/RadarThing/pull/49) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Remove globe radar view](https://github.com/mansoorbarri/RadarThing/pull/48) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Add mobile radar shortcut toggles](https://github.com/mansoorbarri/RadarThing/pull/53) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Add cycleable flight display shortcut](https://github.com/mansoorbarri/RadarThing/pull/52) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Add VA fleet image guidelines](https://github.com/mansoorbarri/RadarThing/pull/51) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
