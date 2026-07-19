@@ -8,14 +8,14 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
-- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 
 ### 🔨 Recent Pull Requests
 
-- [Add live flight link to pilot profiles](https://github.com/mansoorbarri/RadarThing/pull/54) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add mobile radar shortcut toggles](https://github.com/mansoorbarri/RadarThing/pull/53) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add cycleable flight display shortcut](https://github.com/mansoorbarri/RadarThing/pull/52) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Sync RadarThing Pro Discord role](https://github.com/mansoorbarri/discord-pager/pull/2) on [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager)
+- [Sync Pro Discord roles](https://github.com/mansoorbarri/RadarThing/pull/56) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Fix reset icon](https://github.com/mansoorbarri/RadarThing/pull/55) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
