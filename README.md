@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/ATCThing](https://github.com/mansoorbarri/ATCThing) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Add live flight link to pilot profiles](https://github.com/mansoorbarri/RadarThing/pull/54) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add mobile radar shortcut toggles](https://github.com/mansoorbarri/RadarThing/pull/53) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add cycleable flight display shortcut](https://github.com/mansoorbarri/RadarThing/pull/52) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add VA fleet image guidelines](https://github.com/mansoorbarri/RadarThing/pull/51) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
