@@ -8,14 +8,14 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
-- [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Avoid blocking position updates on identity lookups](https://github.com/mansoorbarri/radar-sse/pull/4) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
 - [Add controlled flight filing schedules](https://github.com/mansoorbarri/geofs-vstrips/pull/6) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 - [Sync RadarThing Pro Discord role](https://github.com/mansoorbarri/discord-pager/pull/2) on [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager)
-- [Sync Pro Discord roles](https://github.com/mansoorbarri/RadarThing/pull/56) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
