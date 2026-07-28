@@ -7,9 +7,9 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 
 ### 🔨 Recent Pull Requests
 
