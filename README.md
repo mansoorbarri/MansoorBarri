@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Set Pakistan cursor theme](https://github.com/mansoorbarri/dotfiles/pull/1) on [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles)
 - [Allow VA owners to join other VAs](https://github.com/mansoorbarri/RadarThing/pull/59) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Avoid blocking position updates on identity lookups](https://github.com/mansoorbarri/radar-sse/pull/4) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
-- [Add controlled flight filing schedules](https://github.com/mansoorbarri/geofs-vstrips/pull/6) on [mansoorbarri/geofs-vstrips](https://github.com/mansoorbarri/geofs-vstrips)
 
 ### 📰 Recent Post
 
