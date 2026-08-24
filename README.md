@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 
 ### 🔨 Recent Pull Requests
 
+- [Add first-time radar walkthrough](https://github.com/mansoorbarri/RadarThing/pull/63) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Adjust mobile map controls](https://github.com/mansoorbarri/RadarThing/pull/62) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add maximum flight rules and aircraft categories](https://github.com/mansoorbarri/RadarThing/pull/61) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Set Pakistan cursor theme](https://github.com/mansoorbarri/dotfiles/pull/1) on [mansoorbarri/dotfiles](https://github.com/mansoorbarri/dotfiles)
 
 ### 📰 Recent Post
 
