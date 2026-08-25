@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/discord-pager](https://github.com/mansoorbarri/discord-pager) - A Discord Bot for my ATC Server
 
 ### 🔨 Recent Pull Requests
 
+- [Show airline telephony callsigns in aircraft sidebar](https://github.com/mansoorbarri/RadarThing/pull/66) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Add factory aircraft image fallbacks](https://github.com/mansoorbarri/RadarThing/pull/65) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Expand onboarding with interactive radar tasks](https://github.com/mansoorbarri/RadarThing/pull/64) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add first-time radar walkthrough](https://github.com/mansoorbarri/RadarThing/pull/63) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Adjust mobile map controls](https://github.com/mansoorbarri/RadarThing/pull/62) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
