@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add integrated 3D altitude toggle with elevated aircraft tags](https://github.com/mansoorbarri/RadarThing/pull/68) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Add public help guides authored in Markdown](https://github.com/mansoorbarri/RadarThing/pull/67) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [fix Clerk sign-in redirects](https://github.com/imaginehavingausername/the-pantry-fr/pull/1) on [imaginehavingausername/the-pantry-fr](https://github.com/imaginehavingausername/the-pantry-fr)
-- [Show airline telephony callsigns in aircraft sidebar](https://github.com/mansoorbarri/RadarThing/pull/66) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add factory aircraft image fallbacks](https://github.com/mansoorbarri/RadarThing/pull/65) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
