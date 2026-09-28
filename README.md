@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Add RT Day live event dashboard](https://github.com/mansoorbarri/RadarThing/pull/70) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add admin warnings and bans with private moderation history](https://github.com/mansoorbarri/RadarThing/pull/69) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add integrated 3D altitude toggle with elevated aircraft tags](https://github.com/mansoorbarri/RadarThing/pull/68) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add public help guides authored in Markdown](https://github.com/mansoorbarri/RadarThing/pull/67) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
