@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [imaginehavingausername/the-pantry-fr](https://github.com/imaginehavingausername/the-pantry-fr) - the pantry fr this time
 
 ### 🔨 Recent Pull Requests
 
+- [Use local word filtering for ACARS moderation](https://github.com/mansoorbarri/RadarThing/pull/73) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Prevent GeoFS shortcuts while typing ACARS](https://github.com/mansoorbarri/RadarThing/pull/72) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add pilot-authored ACARS updates and moderation](https://github.com/mansoorbarri/RadarThing/pull/71) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add RT Day live event dashboard](https://github.com/mansoorbarri/RadarThing/pull/70) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add admin warnings and bans with private moderation history](https://github.com/mansoorbarri/RadarThing/pull/69) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
