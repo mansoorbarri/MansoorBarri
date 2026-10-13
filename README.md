@@ -8,8 +8,8 @@
 ### 👷 Currently working on: 
 
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/Dangler](https://github.com/mansoorbarri/Dangler) - An app to help me find a degree apprenticeship &lt;3
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
-- [imaginehavingausername/the-pantry-fr](https://github.com/imaginehavingausername/the-pantry-fr) - the pantry fr this time
 
 ### 🔨 Recent Pull Requests
 
