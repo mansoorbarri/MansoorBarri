@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/DriveThing](https://github.com/mansoorbarri/DriveThing) - 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
+- [mansoorbarri/website](https://github.com/mansoorbarri/website) - HUGO website for blogs, articles and redirects.
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/DriveThing](https://github.com/mansoorbarri/DriveThing) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Rebuild site with Astro and add /hire case studies](https://github.com/mansoorbarri/website/pull/37) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [Use local word filtering for ACARS moderation](https://github.com/mansoorbarri/RadarThing/pull/73) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Prevent GeoFS shortcuts while typing ACARS](https://github.com/mansoorbarri/RadarThing/pull/72) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Add pilot-authored ACARS updates and moderation](https://github.com/mansoorbarri/RadarThing/pull/71) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
