@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
-- [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
 
 ### 🔨 Recent Pull Requests
 
+- [Add no-card Pro trial and daily free chart allowance](https://github.com/mansoorbarri/RadarThing/pull/76) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Rebuild site with Astro and add /hire case studies](https://github.com/mansoorbarri/website/pull/37) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 - [Use local word filtering for ACARS moderation](https://github.com/mansoorbarri/RadarThing/pull/73) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Prevent GeoFS shortcuts while typing ACARS](https://github.com/mansoorbarri/RadarThing/pull/72) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
