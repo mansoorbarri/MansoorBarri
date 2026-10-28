@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [Serve tracker counts from a cron summary and index PRO lookups](https://github.com/mansoorbarri/RadarThing/pull/77) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add no-card Pro trial and daily free chart allowance](https://github.com/mansoorbarri/RadarThing/pull/76) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Rebuild site with Astro and add /hire case studies](https://github.com/mansoorbarri/website/pull/37) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
-- [Use local word filtering for ACARS moderation](https://github.com/mansoorbarri/RadarThing/pull/73) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 
 ### 📰 Recent Post
 
