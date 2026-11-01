@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
+- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 - [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
-- [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Cut SSE egress with gzip and a broadcast field allowlist](https://github.com/mansoorbarri/radar-sse/pull/5) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
 - [Serve tracker counts from a cron summary and index PRO lookups](https://github.com/mansoorbarri/RadarThing/pull/77) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Add no-card Pro trial and daily free chart allowance](https://github.com/mansoorbarri/RadarThing/pull/76) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Rebuild site with Astro and add /hire case studies](https://github.com/mansoorbarri/website/pull/37) on [mansoorbarri/website](https://github.com/mansoorbarri/website)
 
 ### 📰 Recent Post
 
