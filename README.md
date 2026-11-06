@@ -13,9 +13,9 @@
 
 ### 🔨 Recent Pull Requests
 
+- [UX/UI audit: radar, website and GeoFS userscript (all categories 8&#43;)](https://github.com/mansoorbarri/RadarThing/pull/80) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Fetch the selected flight&#39;s route once and stop command polling](https://github.com/mansoorbarri/RadarThing/pull/79) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [Cut flight path and command polling egress](https://github.com/mansoorbarri/radar-sse/pull/7) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
-- [Only send each aircraft&#39;s flight plan when it changes](https://github.com/mansoorbarri/radar-sse/pull/6) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
 
 ### 📰 Recent Post
 
