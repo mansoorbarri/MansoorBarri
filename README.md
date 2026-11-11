@@ -7,15 +7,15 @@
 
 ### 👷 Currently working on: 
 
-- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing) - A radar for GeoFS
+- [mansoorbarri/MansoorBarri](https://github.com/mansoorbarri/MansoorBarri) - Github Profile | README
 - [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse) - 
 
 ### 🔨 Recent Pull Requests
 
+- [Admin &#34;Event live&#34; switch: free pilots can only start flights during events](https://github.com/mansoorbarri/RadarThing/pull/82) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
+- [Security: fix 7 audit findings (PII exposure, paywall bypass, API abuse)](https://github.com/mansoorbarri/RadarThing/pull/81) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
 - [UX/UI audit: radar, website and GeoFS userscript (all categories 8&#43;)](https://github.com/mansoorbarri/RadarThing/pull/80) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Fetch the selected flight&#39;s route once and stop command polling](https://github.com/mansoorbarri/RadarThing/pull/79) on [mansoorbarri/RadarThing](https://github.com/mansoorbarri/RadarThing)
-- [Cut flight path and command polling egress](https://github.com/mansoorbarri/radar-sse/pull/7) on [mansoorbarri/radar-sse](https://github.com/mansoorbarri/radar-sse)
 
 ### 📰 Recent Post
 
